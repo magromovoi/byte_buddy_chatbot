@@ -1,0 +1,299 @@
+Каковы характеристики (Samsung)BRAND (Galaxy S21)MODEL?; 69990.
+Скажи, что внутри (Apple)BRAND (iPhone 12)MODEL?; 59990.
+Хочу узнать все о (Xiaomi)BRAND (Mi 11)MODEL.; 49990.
+Мне нужны детали по (Sony)BRAND (PlayStation 5)MODEL.; 46990.
+Какие функции у (LG)BRAND (G8 ThinQ)MODEL?; 29990.
+Подробности о (Asus)BRAND (ROG Phone 5)MODEL, пожалуйста.; 79990.
+Что известно о (Lenovo)BRAND (Legion 5)MODEL?; 67990.
+Могу я получить информацию о (HP)BRAND (Pavilion 15)MODEL?; 54990.
+Дайте данные о (Dell)BRAND (XPS 13)MODEL.; 89990.
+Что такое (Acer)BRAND (Aspire 5)MODEL?; 39990.
+Расскажи о (Microsoft)BRAND (Surface Pro 7)MODEL.; 74990.
+Информация о (Apple)BRAND (MacBook Air)MODEL нужна.; 89990.
+Характеристики (Google)BRAND (Pixel 5)MODEL, пожалуйста.; 59990.
+Сведения о (OnePlus)BRAND (8 Pro)MODEL, могу узнать?; 54990.
+Описание (Samsung)BRAND (Galaxy Tab S7)MODEL, можно?; 49990.
+Подробная информация о (Huawei)BRAND (P30 Pro)MODEL.; 44990.
+Какие особенности у (Apple)BRAND (iPad Pro)MODEL?; 72990.
+Что включает (Sony)BRAND (Xperia 5)MODEL?; 51990.
+Какие спецификации у (LG)BRAND (V60 ThinQ)MODEL?; 42990.
+Что можно сказать о (Asus)BRAND (ZenBook 13)MODEL?; 79990.
+Детали по (Lenovo)BRAND (ThinkPad X1 Carbon)MODEL, где их найти?; 99990.
+Мне интересны характеристики (HP)BRAND (Spectre x360)MODEL.; 84990.
+Показать спецификации (Dell)BRAND (Alienware m15)MODEL.; 89990.
+Информация о (Acer)BRAND (Nitro 5)MODEL, есть?; 59990.
+Хочу знать про (Microsoft)BRAND (Surface Laptop 3)MODEL.; 77990.
+Сколько стоит (Apple)BRAND (MacBook Pro)MODEL и его характеристики?; 122990.
+Что известно о (Google)BRAND (Nest Hub)MODEL?; 8990.
+Особенности (OnePlus)BRAND (Nord)MODEL, можно узнать?; 27990.
+Детали (Samsung)BRAND (Galaxy Watch 3)MODEL, какие они?; 20990.
+Информация о (Huawei)BRAND (Watch GT 2)MODEL, сколько стоит?; 15990.
+Подробности о (Apple)BRAND (AirPods Pro)MODEL, где найти?; 20990.
+Что включено в (Sony)BRAND (WH-1000XM4)MODEL?; 25990.
+Какие характеристики у (LG)BRAND (Tone Free)MODEL?; 8990.
+Спецификации (Asus)BRAND (ROG Strix)MODEL, можно узнать?; 119990.
+Подробная информация о (Lenovo)BRAND (Yoga Slim 7)MODEL.; 84990.
+Описание (HP)BRAND (Elite Dragonfly)MODEL, доступно?; 119990.
+Сведения о (Dell)BRAND (Inspiron 15)MODEL, как получить?; 59990.
+Могу ли я увидеть характеристики (Acer)BRAND (Predator Helios 300)MODEL?; 89990.
+Показать данные о (Microsoft)BRAND (Xbox Series X)MODEL.; 45990.
+Что известно о (Apple)BRAND (iMac)MODEL?; 104990.
+Скажи подробнее о (Google)BRAND (Pixelbook Go)MODEL.; 64990.
+Особенности (OnePlus)BRAND (7T)MODEL, где посмотреть?; 37990.
+Хочу детали о (Samsung)BRAND (Galaxy Buds Live)MODEL.; 13990.
+Расскажи про (Huawei)BRAND (MateBook X Pro)MODEL.; 89990.
+Сведения о (Apple)BRAND (Watch Series 6)MODEL, какие есть?; 32990.
+Информация по (Sony)BRAND (PlayStation 4 Pro)MODEL, есть?; 29990.
+Подробности (LG)BRAND (Gram 17)MODEL, можно узнать?; 99990.
+Что можно сказать о (Asus)BRAND (TUF Gaming A15)MODEL?; 79990.
+Хочу узнать про (Lenovo)BRAND (IdeaPad Duet)MODEL.; 29990.
+Детали по (HP)BRAND (Omen 15)MODEL, где найти?; 79990.
+Мне нужны характеристики (Dell)BRAND (G5 15)MODEL.; 74990.
+Подробная информация о (Acer)BRAND (Swift 3)MODEL нужна.; 44990.
+Скажи больше о (Microsoft)BRAND (Surface Go 2)MODEL.; 39990.
+Какие особенности у (Apple)BRAND (iPhone SE)MODEL?; 39990.
+Информация о (Google)BRAND (Chromecast)MODEL, сколько стоит?; 3990.
+Спецификации (OnePlus)BRAND (9)MODEL, можно узнать?; 54990.
+Детали о (Samsung)BRAND (Galaxy Note 20)MODEL, какие есть?; 77990.
+Хочу знать о (Huawei)BRAND (Mate 40 Pro)MODEL.; 89990.
+Расскажи про (Apple)BRAND (Mac Mini)MODEL.; 64990.
+Что включает (Sony)BRAND (Xperia 1 II)MODEL?; 79990.
+Какие характеристики у (LG)BRAND (Q60)MODEL?; 15990.
+Спецификации (Asus)BRAND (Zenfone 7)MODEL, где посмотреть?; 49990.
+Информация о (Lenovo)BRAND (Tab P11)MODEL, доступна?; 24990.
+Дайте данные о (HP)BRAND (Envy x360)MODEL.; 74990.
+Что такое (Dell)BRAND (Latitude 7410)MODEL?; 89990.
+Расскажи о (Acer)BRAND (Chromebook Spin 713)MODEL.; 54990.
+Характеристики (Microsoft)BRAND (Surface Book 3)MODEL, можно?; 149990.
+Скажи, что внутри (Apple)BRAND (iPad Mini)MODEL?; 34990.
+Мне нужны детали по (Google)BRAND (Nest Audio)MODEL.; 8990.
+Какие функции у (OnePlus)BRAND (8T)MODEL?; 49990.
+Подробности о (Samsung)BRAND (Galaxy Z Flip)MODEL, пожалуйста.; 99990.
+Что известно о (Huawei)BRAND (P40 Pro)MODEL?; 64990.
+Могу я получить информацию о (Apple)BRAND (Apple TV 4K)MODEL?; 17990.
+Дайте данные о (Sony)BRAND (WH-1000XM3)MODEL.; 21990.
+Что такое (LG)BRAND (Velvet)MODEL?; 29990.
+Расскажи о (Asus)BRAND (VivoBook S15)MODEL.; 59990.
+Информация о (Lenovo)BRAND (Legion Y540)MODEL нужна.; 69990.
+Характеристики (HP)BRAND (Pavilion Gaming 16)MODEL, пожалуйста.; 64990.
+Сведения о (Dell)BRAND (Vostro 15)MODEL, могу узнать?; 55990.
+Описание (Acer)BRAND (Aspire 7)MODEL, можно?; 54990.
+Подробная информация о (Microsoft)BRAND (Surface Duo)MODEL.; 79990.
+Какие особенности у (Apple)BRAND (Mac Pro)MODEL?; 249990.
+Что включает (Google)BRAND (Pixel 4a)MODEL?; 39990.
+Какие спецификации у (OnePlus)BRAND (Nord N10)MODEL?; 27990.
+Что можно сказать о (Samsung)BRAND (Galaxy A51)MODEL?; 22990.
+Детали по (Huawei)BRAND (Nova 5T)MODEL, где их найти?; 27990.
+Мне интересны характеристики (Apple)BRAND (iPhone 11)MODEL.; 49990.
+Показать спецификации (Sony)BRAND (Xperia 10 II)MODEL.; 27990.
+Информация о (LG)BRAND (Wing)MODEL, есть?; 69990.
+Хочу знать про (Asus)BRAND (ZenBook Flip)MODEL.; 84990.
+Сколько стоит (Lenovo)BRAND (ThinkPad E14)MODEL и его характеристики?; 54990.
+Что известно о (HP)BRAND (EliteBook 850)MODEL?; 89990.
+Особенности (Dell)BRAND (XPS 15)MODEL, можно узнать?; 159990.
+Детали (Acer)BRAND (ConceptD 3)MODEL, какие они?; 89990.
+Информация о (Microsoft)BRAND (Surface Studio 2)MODEL, сколько стоит?; 349990.
+Подробности о (Apple)BRAND (iPhone XR)MODEL, где найти?; 42990.
+Что включено в (Google)BRAND (Pixel 4)MODEL?; 59990.
+Какие характеристики у (OnePlus)BRAND (7 Pro)MODEL?; 49990.
+Спецификации (Samsung)BRAND (Galaxy S20)MODEL, можно узнать?; 79990.
+Подробная информация о (Huawei)BRAND (Y9 Prime)MODEL нужна.; 14990.
+Описание (Apple)BRAND (MacBook)MODEL, доступно?; 99990.
+Сведения о (Sony)BRAND (PlayStation VR)MODEL, как получить?; 25990.
+Могу ли я увидеть характеристики (LG)BRAND (G7 ThinQ)MODEL?; 29990.
+Показать данные о (Asus)BRAND (ROG Zephyrus G14)MODEL.; 104990.
+Какие характеристики у (Xiaomi)BRAND (Redmi Note 9)MODEL?; 13990.
+Что известно о (Samsung)BRAND (Galaxy A71)MODEL?; 29990.
+Мне нужны детали о (Apple)BRAND (iPhone 11 Pro)MODEL.; 89990.
+Расскажи про (Huawei)BRAND (Mate 30 Pro)MODEL.; 69990.
+Информация о (Sony)BRAND (Xperia Z5)MODEL, доступна?; 25990.
+Дайте данные о (LG)BRAND (G6)MODEL.; 19990.
+Что такое (OnePlus)BRAND (7T Pro)MODEL?; 53990.
+Скажи подробнее о (Asus)BRAND (ZenBook Pro)MODEL.; 89990.
+Каковы спецификации (Lenovo)BRAND (ThinkPad T480)MODEL?; 74990.
+Показать особенности (HP)BRAND (ProBook 450)MODEL.; 59990.
+Сведения о (Dell)BRAND (Precision 5530)MODEL, где найти?; 139990.
+Описание (Acer)BRAND (TravelMate P2)MODEL, можно?; 49990.
+Информация о (Microsoft)BRAND (Surface Pro X)MODEL, сколько стоит?; 89990.
+Характеристики (Apple)BRAND (iPad Air)MODEL, пожалуйста.; 54990.
+Что включает (Google)BRAND (Pixel 3)MODEL?; 44990.
+Мне нужны детали по (Samsung)BRAND (Galaxy S10)MODEL.; 59990.
+Какие функции у (Huawei)BRAND (P20 Pro)MODEL?; 39990.
+Расскажи про (Sony)BRAND (PlayStation 4)MODEL.; 25990.
+Спецификации (LG)BRAND (V40 ThinQ)MODEL, где посмотреть?; 34990.
+Информация о (OnePlus)BRAND (6T)MODEL, есть?; 34990.
+Детали по (Asus)BRAND (ROG Zephyrus M)MODEL, где найти?; 119990.
+Подробности о (Lenovo)BRAND (IdeaPad L340)MODEL, пожалуйста.; 44990.
+Что можно сказать о (HP)BRAND (Envy 13)MODEL?; 69990.
+Могу я получить информацию о (Dell)BRAND (Latitude 5490)MODEL?; 64990.
+Дайте данные о (Acer)BRAND (Spin 5)MODEL.; 59990.
+Что такое (Microsoft)BRAND (Xbox One X)MODEL?; 39990.
+Расскажи о (Apple)BRAND (iPhone X)MODEL.; 69990.
+Скажи подробнее о (Google)BRAND (Pixel XL)MODEL.; 39990.
+Каковы спецификации (Samsung)BRAND (Galaxy Note 10)MODEL?; 79990.
+Показать особенности (Huawei)BRAND (Nova 3)MODEL.; 27990.
+Сведения о (Sony)BRAND (Xperia XZ1)MODEL, где найти?; 24990.
+Описание (LG)BRAND (Q6)MODEL, можно?; 9990.
+Информация о (OnePlus)BRAND (5T)MODEL, сколько стоит?; 29990.
+Характеристики (Asus)BRAND (Zenfone 6)MODEL, пожалуйста.; 29990.
+Что включает (Lenovo)BRAND (Tab M10)MODEL?; 14990.
+Мне нужны детали по (HP)BRAND (Elite x2)MODEL.; 79990.
+Какие функции у (Dell)BRAND (Inspiron 14)MODEL?; 44990.
+Расскажи про (Acer)BRAND (Predator Triton 500)MODEL.; 129990.
+Спецификации (Microsoft)BRAND (Surface Laptop 4)MODEL, где посмотреть?; 104990.
+Информация о (Apple)BRAND (iPhone 8)MODEL, есть?; 24990.
+Детали по (Google)BRAND (Nest Mini)MODEL, где найти?; 3990.
+Подробности о (Samsung)BRAND (Galaxy S8)MODEL, пожалуйста.; 29990.
+Что можно сказать о (Huawei)BRAND (Y6p)MODEL?; 9990.
+Могу я получить информацию о (Sony)BRAND (WF-1000XM3)MODEL?; 19990.
+Дайте данные о (LG)BRAND (G5)MODEL.; 14990.
+Что такое (OnePlus)BRAND (Nord 2)MODEL?; 29990.
+Расскажи о (Asus)BRAND (TUF Gaming FX505)MODEL.; 64990.
+Скажи подробнее о (Lenovo)BRAND (Legion Pro)MODEL.; 89990.
+Каковы спецификации (HP)BRAND (Spectre Folio)MODEL?; 129990.
+Показать особенности (Dell)BRAND (XPS 17)MODEL.; 199990.
+Сведения о (Acer)BRAND (Enduro N3)MODEL, где найти?; 79990.
+Описание (Microsoft)BRAND (Xbox Series S)MODEL, можно?; 29990.
+Информация о (Apple)BRAND (iPhone XS)MODEL, сколько стоит?; 74990.
+Характеристики (Google)BRAND (Pixel 2)MODEL, пожалуйста.; 29990.
+Что включает (Samsung)BRAND (Galaxy J7)MODEL?; 14990.
+Мне нужны детали по (Huawei)BRAND (P10)MODEL.; 19990.
+Какие функции у (Sony)BRAND (PlayStation 3)MODEL?; 9990.
+Расскажи про (LG)BRAND (Stylo 6)MODEL.; 12990.
+Спецификации (OnePlus)BRAND (8)MODEL, где посмотреть?; 49990.
+Информация о (Asus)BRAND (VivoBook 14)MODEL, есть?; 34990.
+Детали по (Lenovo)BRAND (Yoga C740)MODEL, где найти?; 69990.
+Подробности о (HP)BRAND (Pavilion x360)MODEL, пожалуйста.; 49990.
+Что можно сказать о (Dell)BRAND (Alienware Area-51m)MODEL?; 299990.
+Могу я получить информацию о (Acer)BRAND (Nitro 7)MODEL?; 69990.
+Дайте данные о (Microsoft)BRAND (Surface Pro 6)MODEL.; 74990.
+Что такое (Apple)BRAND (MacBook 12")MODEL?; 89990.
+Расскажи о (Google)BRAND (Pixelbook)MODEL.; 84990.
+Скажи подробнее о (Samsung)BRAND (Galaxy Book)MODEL.; 59990.
+Каковы спецификации (Huawei)BRAND (MateBook D)MODEL?; 49990.
+Показать особенности (Sony)BRAND (Xperia L4)MODEL.; 14990.
+Сведения о (LG)BRAND (K40)MODEL, где найти?; 8990.
+Описание (OnePlus)BRAND (Nord CE)MODEL, можно?; 22990.
+Информация о (Asus)BRAND (ROG Phone 3)MODEL, сколько стоит?; 69990.
+Характеристики (Lenovo)BRAND (ThinkPad X1 Yoga)MODEL, пожалуйста.; 99990.
+Что включает (HP)BRAND (ZBook Firefly)MODEL?; 104990.
+Мне нужны детали по (Dell)BRAND (OptiPlex 3080)MODEL.; 39990.
+Какие функции у (Acer)BRAND (Aspire E15)MODEL?; 34990.
+Расскажи про (Microsoft)BRAND (Xbox One S)MODEL.; 24990.
+Спецификации (Apple)BRAND (iPhone 7)MODEL, где посмотреть?; 19990.
+Информация о (Google)BRAND (Home Max)MODEL, есть?; 29990.
+Детали по (Samsung)BRAND (Galaxy M31)MODEL, где найти?; 19990.
+Подробности о (Huawei)BRAND (Honor 20)MODEL, пожалуйста.; 27990.
+Что можно сказать о (Sony)BRAND (Xperia Z3)MODEL?; 15990.
+Могу я получить информацию о (LG)BRAND (Nexus 5X)MODEL?; 14990.
+Дайте данные о (OnePlus)BRAND (6)MODEL.; 24990.
+Что такое (Asus)BRAND (ZenPad 3S)MODEL?; 19990.
+Расскажи о (Lenovo)BRAND (ThinkStation P320)MODEL.; 89990.
+Скажи подробнее о (HP)BRAND (Omen 17)MODEL.; 99990.
+Каковы спецификации (Dell)BRAND (XPS 13 2-in-1)MODEL?; 89990.
+Показать особенности (Acer)BRAND (Spin 1)MODEL.; 19990.
+Сведения о (Microsoft)BRAND (Xbox 360)MODEL, где найти?; 9990.
+Описание (Apple)BRAND (iMac Pro)MODEL, можно?; 399990.
+Информация о (Google)BRAND (Pixel 3a)MODEL, сколько стоит?; 29990.
+Характеристики (Samsung)BRAND (Galaxy S9)MODEL, пожалуйста.; 34990.
+Что включает (Huawei)BRAND (Nova 5i)MODEL?; 21990.
+Мне нужны детали по (Sony)BRAND (Xperia 1)MODEL.; 79990.
+Какие функции у (LG)BRAND (V50 ThinQ)MODEL?; 49990.
+Расскажи про (OnePlus)BRAND (7)MODEL.; 34990.
+Спецификации (Asus)BRAND (ROG Phone 2)MODEL, где посмотреть?; 69990.
+Информация о (Lenovo)BRAND (Legion 7i)MODEL, есть?; 149990.
+Детали по (HP)BRAND (ZBook Studio)MODEL, где найти?; 184990.
+Подробности о (Dell)BRAND (Precision 3540)MODEL, пожалуйста.; 79990.
+Что можно сказать о (Acer)BRAND (Swift 7)MODEL?; 89990.
+Могу я получить информацию о (Microsoft)BRAND (Surface Studio)MODEL?; 299990.
+Дайте данные о (Apple)BRAND (Apple Watch Series 5)MODEL.; 32990.
+Что такое (Google)BRAND (Home)MODEL?; 8990.
+Расскажи о (Samsung)BRAND (Galaxy Fold)MODEL.; 149990.
+Скажи подробнее о (Huawei)BRAND (Mate X)MODEL.; 199990.
+Каковы спецификации (Sony)BRAND (Xperia XZ2)MODEL?; 39990.
+Показать особенности (LG)BRAND (G8X ThinQ)MODEL.; 49990.
+Сведения о (OnePlus)BRAND (5)MODEL, где найти?; 29990.
+Описание (Asus)BRAND (ZenBook Duo)MODEL, можно?; 89990.
+Информация о (Lenovo)BRAND (Yoga 730)MODEL, сколько стоит?; 59990.
+Характеристики (HP)BRAND (Pavilion 14)MODEL, пожалуйста.; 44990.
+Что включает (Dell)BRAND (G3 15)MODEL?; 59990.
+Мне нужны детали по (Acer)BRAND (TravelMate X5)MODEL.; 74990.
+Какие функции у (Microsoft)BRAND (Surface Go)MODEL?; 34990.
+Расскажи про (Apple)BRAND (iPhone 6s)MODEL.; 14990.
+Спецификации (Google)BRAND (Nexus 6P)MODEL, где посмотреть?; 29990.
+Информация о (Samsung)BRAND (Galaxy Note 8)MODEL, есть?; 39990.
+Детали по (Huawei)BRAND (P Smart)MODEL, где найти?; 14990.
+Подробности о (Sony)BRAND (Xperia X)MODEL, пожалуйста.; 19990.
+Что можно сказать о (LG)BRAND (V30)MODEL?; 29990.
+Могу я получить информацию о (OnePlus)BRAND (3T)MODEL?; 19990.
+Дайте данные о (Asus)BRAND (ROG Strix Scar)MODEL.; 129990.
+Что такое (Lenovo)BRAND (ThinkCentre M720)MODEL?; 49990.
+Расскажи о (HP)BRAND (EliteDesk 800)MODEL.; 69990.
+Скажи подробнее о (Dell)BRAND (Vostro 14)MODEL.; 44990.
+Каковы спецификации (Acer)BRAND (Predator Orion 3000)MODEL?; 89990.
+Показать особенности (Microsoft)BRAND (Xbox One)MODEL.; 24990.
+Сведения о (Apple)BRAND (iPad 6th generation)MODEL, где найти?; 24990.
+Описание (Google)BRAND (Nest Thermostat)MODEL, можно?; 12990.
+Информация о (Samsung)BRAND (Galaxy S7)MODEL, сколько стоит?; 19990.
+Характеристики (Huawei)BRAND (Mate 20 Pro)MODEL, пожалуйста.; 49990.
+Что включает (Sony)BRAND (PlayStation 5 Digital Edition)MODEL?; 39990.
+Мне нужны детали по (LG)BRAND (G4)MODEL.; 9990.
+Какие функции у (OnePlus)BRAND (Nord N100)MODEL?; 13990.
+Расскажи про (Asus)BRAND (Chromebook Flip)MODEL.; 29990.
+Спецификации (Lenovo)BRAND (ThinkPad E490)MODEL, где посмотреть?; 54990.
+Информация о (HP)BRAND (Envy 17)MODEL, есть?; 79990.
+Детали по (Dell)BRAND (Inspiron 15 7000)MODEL, где найти?; 59990.
+Подробности о (Acer)BRAND (TravelMate B1)MODEL, пожалуйста.; 29990.
+Что можно сказать о (Microsoft)BRAND (Surface Book 2)MODEL?; 149990.
+Могу я получить информацию о (Apple)BRAND (iPhone 6)MODEL?; 9990.
+Дайте данные о (Google)BRAND (Pixel C)MODEL.; 49990.
+Что такое (Samsung)BRAND (Galaxy Tab S6)MODEL?; 52990.
+Расскажи о (Huawei)BRAND (P9)MODEL.; 19990.
+Скажи подробнее о (Sony)BRAND (PlayStation 2)MODEL.; 6990.
+Каковы спецификации (LG)BRAND (Nexus 5)MODEL?; 14990.
+Показать особенности (OnePlus)BRAND (3)MODEL.; 19990.
+Сведения о (Asus)BRAND (ROG Strix GL502)MODEL, где найти?; 89990.
+Описание (Lenovo)BRAND (Yoga Book)MODEL, можно?; 29990.
+Информация о (HP)BRAND (ProDesk 400)MODEL, сколько стоит?; 39990.
+Характеристики (Dell)BRAND (Latitude 7400)MODEL, пожалуйста.; 89990.
+Что включает (Acer)BRAND (Aspire 1)MODEL?; 19990.
+Мне нужны детали по (Microsoft)BRAND (Surface 3)MODEL.; 29990.
+Какие функции у (Apple)BRAND (iPhone 5s)MODEL?; 9990.
+Расскажи про (Google)BRAND (Nest Cam Indoor)MODEL.; 9990.
+Спецификации (Samsung)BRAND (Galaxy A50)MODEL, где посмотреть?; 19990.
+Информация о (Huawei)BRAND (Mate 20)MODEL, есть?; 39990.
+Детали по (Sony)BRAND (Xperia XA2)MODEL, где найти?; 19990.
+Подробности о (LG)BRAND (G3)MODEL, пожалуйста.; 9990.
+Что можно сказать о (OnePlus)BRAND (Nord N200)MODEL?; 15990.
+Могу я получить информацию о (Asus)BRAND (ZenBook 14)MODEL?; 69990.
+Дайте данные о (Lenovo)BRAND (ThinkPad L390)MODEL.; 54990.
+Что такое (HP)BRAND (Pavilion 17)MODEL?; 49990.
+Расскажи о (Dell)BRAND (OptiPlex 7070)MODEL.; 69990.
+Скажи подробнее о (Acer)BRAND (Swift 5)MODEL.; 59990.
+Каковы спецификации (Microsoft)BRAND (Xbox Adaptive Controller)MODEL?; 9990.
+Показать особенности (Apple)BRAND (Mac Mini M1)MODEL.; 64990.
+Сведения о (Google)BRAND (Pixel 4 XL)MODEL, где найти?; 59990.
+Описание (Samsung)BRAND (Galaxy Z Fold 2)MODEL, можно?; 179990.
+Информация о (Huawei)BRAND (P30)MODEL, сколько стоит?; 39990.
+Характеристики (Sony)BRAND (Xperia 5 II)MODEL, пожалуйста.; 79990.
+Что включает (LG)BRAND (K10)MODEL?; 8990.
+Мне нужны детали по (OnePlus)BRAND (Nord CE 5G)MODEL.; 27990.
+Какие функции у (Asus)BRAND (ZenBook Flip 14)MODEL?; 69990.
+Расскажи про (Lenovo)BRAND (ThinkStation P520)MODEL.; 199990.
+Спецификации (HP)BRAND (Spectre x2)MODEL, где посмотреть?; 89990.
+Информация о (Dell)BRAND (Latitude 5500)MODEL, есть?; 64990.
+Детали по (Acer)BRAND (Chromebook 714)MODEL, где найти?; 39990.
+Подробности о (Microsoft)BRAND (Surface Pro 7+)MODEL, пожалуйста.; 74990.
+Что можно сказать о (Apple)BRAND (iPhone 5)MODEL?; 6990.
+Могу я получить информацию о (Google)BRAND (Pixel Slate)MODEL?; 54990.
+Дайте данные о (Samsung)BRAND (Galaxy Tab A)MODEL.; 15990.
+Что такое (Huawei)BRAND (MediaPad M5)MODEL?; 24990.
+Расскажи о (Sony)BRAND (Xperia XZ)MODEL.; 19990.
+Скажи подробнее о (LG)BRAND (K50)MODEL.; 11990.
+Каковы спецификации (OnePlus)BRAND (2)MODEL?; 19990.
+Показать особенности (Asus)BRAND (ROG Strix Hero III)MODEL.; 149990.
+Сведения о (Lenovo)BRAND (IdeaCentre AIO 3)MODEL, где найти?; 49990.
+Описание (HP)BRAND (EliteBook 1040)MODEL, можно?; 99990.
+Информация о (Dell)BRAND (G7 17)MODEL, сколько стоит?; 89990.
+Характеристики (Acer)BRAND (Nitro 5 Spin)MODEL, пожалуйста.; 59990.
+Что включает (Microsoft)BRAND (Surface Laptop 2)MODEL?; 79990.

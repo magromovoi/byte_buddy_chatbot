@@ -1,0 +1,291 @@
+Мне нужен (телевизор)CAT от (Samsung)BRAND, цена до (30 000)PRICE рублей.; Samsung Crystal UHD; 29990.
+Ищу (смартфон)CAT подешевле, (Xiaomi)BRAND, до (15к)PRICE.; Xiaomi Redmi Note 10; 14990.
+Покажи (пылесос)CAT (Dyson)BRAND, хочу не дороже (45 тыс)PRICE, с рейтингом (4.5)RAT.; Dyson V11 Absolute; 44990.
+Мне нужен (ноутбук)CAT (Lenovo)BRAND в пределах (40 000 руб.)PRICE.; Lenovo IdeaPad 3; 39990.
+Нужен хороший (планшет)CAT, не дороже (20к)PRICE, (Apple)BRAND.; Apple iPad; 19990.
+Хочу купить (наушники)CAT, бренд (Sony)BRAND, ценой до (10 000 руб.)PRICE.; Sony WH-CH510; 8990.
+Найдите мне (холодильник)CAT (LG)BRAND не более (50 000)PRICE рублей.; LG GA-B459CLWL; 49990.
+Мне надо (микроволновку)CAT (Samsung)BRAND, цена до (15 тыс)PRICE.; Samsung ME83X; 14990.
+Ищу (камеру)CAT для видео, (Canon)BRAND, до (70к)PRICE.; Canon EOS 250D; 69990.
+Нужен (плеер)CAT, бренд (Apple)BRAND, не выше (20 000)PRICE рублей.; Apple iPod Touch; 19990.
+Посоветуйте (монитор)CAT (Dell)BRAND в пределах (25 тыс)PRICE, с рейтингом (4.4)RAT.; Dell P2419H; 24990.
+Хочу купить (кондиционер)CAT до (35к)PRICE, бренд (LG)BRAND.; LG S09ET; 34990.
+Ищу (умные часы)CAT, не дороже (30 000 руб.)PRICE, (Samsung)BRAND.; Samsung Galaxy Watch 3; 29990.
+Нужен (электрочайник)CAT до (5к)PRICE, (Bosch)BRAND.; Bosch TWK7805; 4990.
+Хочу (фотоаппарат)CAT (Nikon)BRAND, цена до (50 тыс)PRICE.; Nikon D5600; 49990.
+Мне нужна (стиральная машина)CAT (Bosch)BRAND не более (60 000)PRICE рублей.; Bosch Serie 4 WAN24260BY; 59990.
+Ищу (планшет)CAT для работы, (Microsoft)BRAND, до (80к)PRICE.; Microsoft Surface Go 2; 79990.
+Нужен (смартфон)CAT (Huawei)BRAND за (20 000 руб.)PRICE.; Huawei P30 Lite; 19990.
+Покажи мне (наушники)CAT (JBL)BRAND до (7 тыс)PRICE.; JBL Tune 500BT; 6990.
+Мне нужен (проектор)CAT от (Epson)BRAND, ценой до (40к)PRICE.; Epson EB-S41; 39990.
+Ищу (кофемашину)CAT, хочу (Philips)BRAND, не дороже (25 тыс)PRICE.; Philips HD8829; 24990.
+Найдите (пылесос)CAT (Karcher)BRAND до (30 000 руб.)PRICE.; Karcher VC 3; 29990.
+Хочу купить (ноутбук)CAT, (Acer)BRAND, цена до (50к)PRICE.; Acer Aspire 5; 49990.
+Мне надо (холодильник)CAT (Indesit)BRAND за (20 000)PRICE рублей.; Indesit DS 4160 W; 19990.
+Найди мне (монитор)CAT для игр, (AOC)BRAND, до (15 тыс)PRICE.; AOC G2460VQ6; 14990.
+Ищу (умные часы)CAT (Apple)BRAND, бюджет до (25к)PRICE.; Apple Watch Series 3; 24990.
+Нужен (телевизор)CAT с хорошим изображением, (LG)BRAND, до (40 000 руб.)PRICE.; LG 43UM7100PLB; 39990.
+Хочу (камеру)CAT для фотографий, (Sony)BRAND, ценой до (50к)PRICE.; Sony Alpha A6000; 49990.
+Мне нужен (планшет)CAT (Lenovo)BRAND до (30 тыс)PRICE.; Lenovo Tab P11; 29990.
+Найди (наушники)CAT для спорта, (Beats)BRAND, не более (15 000)PRICE рублей.; Beats Powerbeats Pro; 14990.
+Ищу (смартфон)CAT (Realme)BRAND до (20к)PRICE.; Realme 7; 19990.
+Мне надо (кофемашину)CAT (DeLonghi)BRAND за (40 000 руб.)PRICE.; DeLonghi EC 685; 39990.
+Нужен (пылесос)CAT ручной, (Dyson)BRAND, до (30к)PRICE.; Dyson V8 Absolute; 29990.
+Хочу купить (фотоаппарат)CAT (Canon)BRAND, бюджет (70 тыс)PRICE.; Canon EOS 90D; 69990.
+Ищу (монитор)CAT (BenQ)BRAND до (10 000 руб.)PRICE.; BenQ GW2270H; 9990.
+Нужен (кондиционер)CAT (Daikin)BRAND, не дороже (50к)PRICE.; Daikin FTXB35C/RXB35C; 49990.
+Мне нужна (стиральная машина)CAT (Samsung)BRAND до (40 тыс)PRICE.; Samsung WW60J3080LW; 39990.
+Покажи (планшет)CAT (Asus)BRAND за (25 000 руб.)PRICE.; Asus ZenPad 3S 10; 24990.
+Ищу (наушники)CAT (Sennheiser)BRAND до (20к)PRICE.; Sennheiser HD 450BT; 19990.
+Нужен (проектор)CAT для домашнего кинотеатра, (LG)BRAND, до (60 тыс)PRICE.; LG PF50KS; 59990.
+Хочу купить (кофемашину)CAT (Bosch)BRAND, бюджет до (30 000 руб.)PRICE.; Bosch TIS 30159RW; 29990.
+Мне нужен (пылесос)CAT (Electrolux)BRAND за (10к)PRICE.; Electrolux EAPC53IS; 9990.
+Ищу (ноутбук)CAT для учебы, (HP)BRAND, до (35к)PRICE.; HP 15s-eq1053ur; 34990.
+Нужен (холодильник)CAT (Beko)BRAND, не дороже (25 тыс)PRICE.; Beko RCSK 310M20W; 24990.
+Хочу (монитор)CAT (LG)BRAND до (20 000 руб.)PRICE.; LG 24MK600M; 19990.
+Ищу (умные часы)CAT (Fitbit)BRAND, бюджет до (15к)PRICE.; Fitbit Versa 2; 14990.
+Нужен (телевизор)CAT (Philips)BRAND до (50 тыс)PRICE.; Philips 50PUS7304/12; 49990.
+Покажи (камеру)CAT для блогинга, (Panasonic)BRAND, до (80к)PRICE.; Panasonic Lumix DMC-G7; 79990.
+Мне нужен (планшет)CAT (Samsung)BRAND до (20 тыс)PRICE.; Samsung Galaxy Tab A 10.1; 19990.
+Ищу (наушники)CAT (Bose)BRAND до (25 000 руб.)PRICE.; Bose QuietComfort 35 II; 24990.
+Нужен (проектор)CAT (Epson)BRAND, бюджет до (70к)PRICE.; Epson EH-TW650; 69990.
+Хочу купить (кофемашину)CAT (Jura)BRAND, не дороже (100 тыс)PRICE.; Jura E6; 99990.
+Мне нужен (пылесос)CAT (Rowenta)BRAND до (20к)PRICE.; Rowenta RO3731EA; 19990.
+Ищу (ноутбук)CAT (Asus)BRAND для игр, до (80 тыс)PRICE.; Asus TUF Gaming F15; 79990.
+Нужен (холодильник)CAT (Electrolux)BRAND, ценой до (35 000 руб.)PRICE.; Electrolux EJ2801AOW2; 34990.
+Хочу (монитор)CAT (Samsung)BRAND до (15 тыс)PRICE.; Samsung S24D300H; 14990.
+Ищу (умные часы)CAT (Garmin)BRAND, бюджет до (20к)PRICE.; Garmin Forerunner 45; 19990.
+Нужен (телевизор)CAT (Sony)BRAND до (60 000 руб.)PRICE.; Sony KD-43XG7096; 59990.
+Покажи (камеру)CAT (Nikon)BRAND за (30 тыс)PRICE.; Nikon Coolpix B500; 29990.
+Мне нужен (планшет)CAT (Huawei)BRAND до (15к)PRICE.; Huawei MediaPad T5; 14990.
+Ищу (наушники)CAT (Xiaomi)BRAND до (5 тыс)PRICE.; Xiaomi Redmi AirDots; 4990.
+Нужен (проектор)CAT (BenQ)BRAND, не дороже (50к)PRICE.; BenQ MW533; 49990.
+Хочу купить (кофемашину)CAT (Melitta)BRAND до (40 тыс)PRICE.; Melitta Caffeo Solo; 39990.
+Мне нужен (пылесос)CAT (Miele)BRAND за (60к)PRICE.; Miele Complete C3; 59990.
+Ищу (ноутбук)CAT (Dell)BRAND до (70 тыс)PRICE.; Dell Inspiron 5593; 69990.
+Нужен (холодильник)CAT (Sharp)BRAND, цена до (30к)PRICE.; Sharp SJ-BA10IHXW1-RU; 29990.
+Хочу (монитор)CAT для дизайна, (Asus)BRAND, до (25 тыс)PRICE.; Asus ProArt PA248QV; 24990.
+Ищу (умные часы)CAT (Amazfit)BRAND, не дороже (10 000 руб.)PRICE.; Amazfit GTS; 9990.
+Нужен (телевизор)CAT (Hisense)BRAND до (40к)PRICE.; Hisense 43A7500F; 39990.
+Покажи (камеру)CAT (Olympus)BRAND, до (50 тыс)PRICE.; Olympus OM-D E-M10 Mark III; 49990.
+Мне нужен (планшет)CAT (Acer)BRAND до (25к)PRICE.; Acer Iconia Tab 10; 24990.
+Ищу (наушники)CAT для занятий спортом, (Philips)BRAND, до (8 тыс)PRICE.; Philips SHB4205BK; 7990.
+Нужен (проектор)CAT (Sony)BRAND, бюджет до (100к)PRICE.; Sony VPL-EX435; 99990.
+Хочу купить (кофемашину)CAT (Siemens)BRAND, не дороже (50 тыс)PRICE.; Siemens TE653318RW; 49990.
+Мне нужен (пылесос)CAT (Bosch)BRAND за (15к)PRICE.; Bosch BGC05A220A; 14990.
+Ищу (ноутбук)CAT (Acer)BRAND для работы, до (30к)PRICE.; Acer Extensa 15; 29990.
+Нужен (холодильник)CAT (LG)BRAND, ценой до (45 000 руб.)PRICE.; LG GA-B459SMUM; 44990.
+Хочу (монитор)CAT (Acer)BRAND до (10 тыс)PRICE.; Acer V206HQL; 9990.
+Ищу (умные часы)CAT (Samsung)BRAND, бюджет до (35к)PRICE.; Samsung Galaxy Watch Active 2; 34990.
+Нужен (телевизор)CAT (Panasonic)BRAND до (70 000 руб.)PRICE.; Panasonic TX-40FX600; 69990.
+Покажи (камеру)CAT для путешествий, (GoPro)BRAND, до (30к)PRICE.; GoPro Hero 8 Black; 29990.
+Мне нужен (планшет)CAT (Lenovo)BRAND до (10к)PRICE.; Lenovo Tab M8; 9990.
+Ищу (наушники)CAT (Sony)BRAND до (12 тыс)PRICE.; Sony WH-CH700N; 11990.
+Нужен (проектор)CAT (Acer)BRAND, не дороже (60к)PRICE.; Acer H6517ABD; 59990.
+Хочу купить (кофемашину)CAT (Gaggia)BRAND до (80 тыс)PRICE.; Gaggia Anima; 79990.
+Мне нужен (пылесос)CAT (Vitek)BRAND за (7к)PRICE.; Vitek VT-1833; 6990.
+Ищу (ноутбук)CAT (Lenovo)BRAND для игр, до (50к)PRICE.; Lenovo Legion Y540; 49990.
+Нужен (холодильник)CAT (Whirlpool)BRAND, ценой до (40к)PRICE.; Whirlpool WTNF 92O X H; 39990.
+Хочу (монитор)CAT (HP)BRAND до (30 000 руб.)PRICE.; HP 27fw; 29990.
+Ищу (умные часы)CAT (Huawei)BRAND, бюджет до (20к)PRICE.; Huawei Watch GT 2; 19990.
+Нужен (телевизор)CAT (Toshiba)BRAND до (35к)PRICE.; Toshiba 32L3863DG; 34990.
+Покажи (камеру)CAT (Fujifilm)BRAND, до (25 тыс)PRICE.; Fujifilm X-T100; 24990.
+Мне нужен (планшет)CAT (Apple)BRAND до (60к)PRICE.; Apple iPad Air; 59990.
+Ищу (наушники)CAT (Marshall)BRAND до (10 000 руб.)PRICE.; Marshall Major III; 9990.
+Нужен (проектор)CAT (Optoma)BRAND, не дороже (75к)PRICE.; Optoma HD144X; 74990.
+Хочу купить (кофемашину)CAT (Rancilio)BRAND до (90 тыс)PRICE.; Rancilio Silvia; 89990.
+Мне нужен (пылесос)CAT (Samsung)BRAND за (20к)PRICE.; Samsung VC07M2110SR; 19990.
+Ищу (ноутбук)CAT (MSI)BRAND для работы и игр, до (100к)PRICE.; MSI GF63 Thin; 99990.
+Нужен (холодильник)CAT (Siemens)BRAND, ценой до (50к)PRICE.; Siemens KG39NXI35; 49990.
+Хочу (монитор)CAT (Philips)BRAND до (20 тыс)PRICE.; Philips 273V7QDAB; 19990.
+Ищу (умные часы)CAT (Xiaomi)BRAND, бюджет до (5 тыс)PRICE.; Xiaomi Mi Band 5; 4990.
+Нужен (телевизор)CAT (Sharp)BRAND до (55к)PRICE.; Sharp LC-55UI7252E; 54990.
+Покажи (камеру)CAT (Leica)BRAND, до (200к)PRICE.; Leica Q2; 199990.
+Мне нужен (планшет)CAT (Microsoft)BRAND до (70к)PRICE.; Microsoft Surface Pro 7; 69990.
+Ищу (наушники)CAT (Beats)BRAND до (30 000 руб.)PRICE.; Beats Studio 3; 29990.
+Нужен (проектор)CAT (Canon)BRAND, не дороже (40к)PRICE.; Canon LV-X320; 39990.
+Хочу купить (кофемашину)CAT (Nespresso)BRAND до (20 тыс)PRICE.; Nespresso Inissia C40; 19990.
+Мне нужен (пылесос)CAT (LG)BRAND за (25к)PRICE.; LG VK76A03NTA; 24990.
+Ищу (ноутбук)CAT (Asus)BRAND для дома, до (60к)PRICE.; Asus VivoBook S15; 59990.
+Нужен (холодильник)CAT (Indesit)BRAND, ценой до (30к)PRICE.; Indesit DF 4180W; 29990.
+Хочу (монитор)CAT (AOC)BRAND до (12 тыс)PRICE.; AOC 22B1HS; 11990.
+Ищу (умные часы)CAT (Apple)BRAND, бюджет до (50к)PRICE.; Apple Watch Series 5; 49990.
+Нужен (телевизор)CAT (LG)BRAND до (75 000 руб.)PRICE.; LG OLED55B9; 74990.
+Покажи (камеру)CAT для профессионалов, (Canon)BRAND, до (150к)PRICE.; Canon EOS 5D Mark IV; 149990.
+Мне нужен (планшет)CAT (Samsung)BRAND до (40к)PRICE.; Samsung Galaxy Tab S6; 39990.
+Ищу (наушники)CAT (Philips)BRAND до (6 тыс)PRICE.; Philips SHP6000; 5990.
+Нужен (проектор)CAT (LG)BRAND, не дороже (100к)PRICE.; LG HU80KS; 99990.
+Хочу купить (кофемашину)CAT (Gaggia)BRAND до (60 тыс)PRICE.; Gaggia Anima Prestige; 59990.
+Мне нужен (пылесос)CAT (Dyson)BRAND за (70к)PRICE.; Dyson Cyclone V10 Absolute; 69990.
+Ищу (ноутбук)CAT (HP)BRAND для работы, до (55к)PRICE.; HP Pavilion 15-cs3006ur; 54990.
+Нужен (холодильник)CAT (Beko)BRAND, ценой до (35к)PRICE.; Beko BCHA275K3S; 34990.
+Хочу (монитор)CAT (Dell)BRAND до (15 тыс)PRICE.; Dell E2216HV; 14990.
+Ищу (умные часы)CAT (Garmin)BRAND, бюджет до (25к)PRICE.; Garmin Venu; 24990.
+Нужен (телевизор)CAT (Samsung)BRAND до (80 000 руб.)PRICE.; Samsung QE55Q60TAU; 79990.
+Покажи (камеру)CAT (Sony)BRAND, до (100к)PRICE.; Sony Alpha A7 III; 99990.
+Мне нужен (планшет)CAT (Apple)BRAND до (80к)PRICE.; Apple iPad Pro; 79990.
+Ищу (наушники)CAT (Sennheiser)BRAND до (15 тыс)PRICE.; Sennheiser Momentum True Wireless 2; 14990.
+Нужен (проектор)CAT (Epson)BRAND, не дороже (50к)PRICE.; Epson EB-U05; 49990.
+Хочу купить (кофемашину)CAT (Saeco)BRAND до (45 тыс)PRICE.; Saeco Lirika One; 44990.
+Мне нужен (пылесос)CAT (Electrolux)BRAND за (15к)PRICE.; Electrolux EERC72EB; 14990.
+Ищу (ноутбук)CAT (Apple)BRAND для дизайна, до (120к)PRICE.; Apple MacBook Pro 13; 119990.
+Нужен (холодильник)CAT (Sharp)BRAND, ценой до (50к)PRICE.; Sharp SJ-EX820FSL; 49990.
+Хочу (монитор)CAT (BenQ)BRAND до (10 тыс)PRICE.; BenQ GL2250HM; 9990.
+Ищу (умные часы)CAT (Fitbit)BRAND, бюджет до (12к)PRICE.; Fitbit Charge 4; 11990.
+Нужен (телевизор)CAT (Hisense)BRAND до (45к)PRICE.; Hisense H55U7B; 44990.
+Покажи (камеру)CAT (Panasonic)BRAND, до (70к)PRICE.; Panasonic Lumix DC-GH5; 69990.
+Мне нужен (планшет)CAT (Huawei)BRAND до (30к)PRICE.; Huawei MatePad T10s; 29990.
+Ищу (наушники)CAT (Bose)BRAND до (20 тыс)PRICE.; Bose SoundSport Free; 19990.
+Нужен (проектор)CAT (BenQ)BRAND, не дороже (80к)PRICE.; BenQ TK850; 79990.
+Хочу купить (кофемашину)CAT (DeLonghi)BRAND до (70 тыс)PRICE.; DeLonghi ECAM 23.460; 69990.
+Мне нужен (пылесос)CAT (Karcher)BRAND за (12к)PRICE.; Karcher WD 3; 11990.
+Ищу (ноутбук)CAT (MSI)BRAND для гейминга, до (150к)PRICE.; MSI GE75 Raider; 149990.
+Нужен (холодильник)CAT (LG)BRAND, ценой до (60к)PRICE.; LG GA-B509SLKM; 59990.
+Хочу (монитор)CAT (HP)BRAND до (20 тыс)PRICE.; HP 24es; 19990.
+Ищу (умные часы)CAT (Amazfit)BRAND, бюджет до (7 тыс)PRICE.; Amazfit Bip; 6990.
+Нужен (телевизор)CAT (Toshiba)BRAND до (50к)PRICE.; Toshiba 49U5865EC; 49990.
+Покажи (камеру)CAT для начинающих, (Nikon)BRAND, до (40к)PRICE.; Nikon D3500; 39990.
+Мне нужен (планшет)CAT (Apple)BRAND до (100к)PRICE.; Apple iPad Pro 11; 99990.
+Ищу (наушники)CAT (JBL)BRAND до (8 тыс)PRICE.; JBL Tune 750BTNC; 7990.
+Нужен (проектор)CAT (Acer)BRAND, не дороже (30к)PRICE.; Acer X1123H; 29990.
+Хочу купить (кофемашину)CAT (Nespresso)BRAND до (30 тыс)PRICE.; Nespresso Lattissima One; 29990.
+Мне нужен (пылесос)CAT (Samsung)BRAND за (40к)PRICE.; Samsung VC07K51G0HG; 39990.
+Ищу (ноутбук)CAT (Lenovo)BRAND для офисной работы, до (40к)PRICE.; Lenovo ThinkPad E15; 39990.
+Нужен (холодильник)CAT (Samsung)BRAND, ценой до (70к)PRICE.; Samsung RB33J3200SA; 69990.
+Хочу (монитор)CAT (Samsung)BRAND до (25 тыс)PRICE.; Samsung C24F390FHI; 24990.
+Ищу (умные часы)CAT (Garmin)BRAND, бюджет до (30к)PRICE.; Garmin Fenix 6; 29990.
+Нужен (телевизор)CAT (Sony)BRAND до (100к)PRICE.; Sony KD-55XG8577; 99990.
+Покажи (камеру)CAT (Leica)BRAND, до (250к)PRICE.; Leica M10-R; 249990.
+Мне нужен (планшет)CAT (Lenovo)BRAND до (15к)PRICE.; Lenovo Tab M10; 14990.
+Ищу (наушники)CAT (Apple)BRAND до (25 000 руб.)PRICE.; Apple AirPods Pro; 24990.
+Нужен (проектор)CAT (Sony)BRAND, не дороже (120к)PRICE.; Sony VPL-PHZ10; 119990.
+Хочу купить (кофемашину)CAT (Melitta)BRAND до (50 тыс)PRICE.; Melitta Caffeo CI; 49990.
+Мне нужен (пылесос)CAT (Rowenta)BRAND за (30к)PRICE.; Rowenta RO6984EA; 29990.
+Ищу (ноутбук)CAT (Dell)BRAND для графического дизайна, до (90к)PRICE.; Dell XPS 15; 89990.
+Нужен (холодильник)CAT (Whirlpool)BRAND, ценой до (55к)PRICE.; Whirlpool WTNF 92O X H; 54990.
+Хочу (монитор)CAT (BenQ)BRAND до (17 тыс)PRICE.; BenQ GW2283; 16990.
+Ищу (умные часы)CAT (Xiaomi)BRAND, бюджет до (10к)PRICE.; Xiaomi Mi Watch; 9990.
+Нужен (телевизор)CAT (Panasonic)BRAND до (60к)PRICE.; Panasonic TX-55FXR600; 59990.
+Покажи (камеру)CAT для видеосъемки, (Sony)BRAND, до (150к)PRICE.; Sony PXW-Z90; 149990.
+Мне нужен (планшет)CAT (Acer)BRAND до (20к)PRICE.; Acer Iconia One 10; 19990.
+Ищу (наушники)CAT (Marshall)BRAND до (15 000 руб.)PRICE.; Marshall Mid A.N.C.; 14990.
+Нужен (проектор)CAT (Epson)BRAND, не дороже (40к)PRICE.; Epson EB-X41; 39990.
+Хочу купить (кофемашину)CAT (Siemens)BRAND до (60 тыс)PRICE.; Siemens EQ.6 plus s700; 59990.
+Мне нужен (пылесос)CAT (Philips)BRAND за (10к)PRICE.; Philips FC9332/09; 9990.
+Ищу (ноутбук)CAT (Apple)BRAND для домашнего использования, до (100к)PRICE.; Apple MacBook Air; 99990.
+Нужен (холодильник)CAT (Electrolux)BRAND, ценой до (80к)PRICE.; Electrolux EN6086JOX; 79990.
+Хочу (монитор)CAT (AOC)BRAND до (18 тыс)PRICE.; AOC I2481FXH; 17990.
+Ищу (умные часы)CAT (Fitbit)BRAND, бюджет до (20к)PRICE.; Fitbit Versa 3; 19990.
+Нужен (телевизор)CAT (Hisense)BRAND до (55 000 руб.)PRICE.; Hisense 55U7QF; 54990.
+Покажи (камеру)CAT (Fujifilm)BRAND, до (60к)PRICE.; Fujifilm X-T30; 59990.
+Мне нужен (планшет)CAT (Microsoft)BRAND до (90к)PRICE.; Microsoft Surface Pro X; 89990.
+Ищу (наушники)CAT (Bose)BRAND до (18 тыс)PRICE.; Bose QuietControl 30; 17990.
+Нужен (проектор)CAT (Canon)BRAND, не дороже (70к)PRICE.; Canon LV-WX300UST; 69990.
+Хочу купить (кофемашину)CAT (Gaggia)BRAND до (100 тыс)PRICE.; Gaggia Accademia; 99990.
+Мне нужен (пылесос)CAT (Dyson)BRAND за (50к)PRICE.; Dyson V11 Absolute; 49990.
+Ищу (ноутбук)CAT (Asus)BRAND для гейминга, до (120к)PRICE.; Asus ROG Strix G15; 119990.
+Нужен (холодильник)CAT (Samsung)BRAND, ценой до (85к)PRICE.; Samsung RF56M9540SR; 84990.
+Хочу (монитор)CAT (Samsung)BRAND до (30к)PRICE.; Samsung U28E590D; 29990.
+Ищу (умные часы)CAT (Huawei)BRAND, бюджет до (15к)PRICE.; Huawei Watch Fit; 14990.
+Нужен (телевизор)CAT (LG)BRAND до (100 000 руб.)PRICE.; LG 55SM8600PLA; 99990.
+Покажи (камеру)CAT (Canon)BRAND, до (200к)PRICE.; Canon EOS-1D X Mark III; 199990.
+Мне нужен (планшет)CAT (Apple)BRAND до (70к)PRICE.; Apple iPad Pro 10.5; 69990.
+Ищу (наушники)CAT (Sennheiser)BRAND до (22 тыс)PRICE.; Sennheiser PXC 550-II; 21990.
+Нужен (проектор)CAT (Optoma)BRAND, не дороже (85к)PRICE.; Optoma UHD40; 84990.
+Хочу купить (кофемашину)CAT (Rancilio)BRAND до (120 тыс)PRICE.; Rancilio Classe 5 USB; 119990.
+Мне нужен (пылесос)CAT (Miele)BRAND за (80к)PRICE.; Miele Complete C3 Cat&Dog PowerLine; 79990.
+Ищу (ноутбук)CAT (Dell)BRAND для программирования, до (70к)PRICE.; Dell Inspiron 15 7577; 69990.
+Нужен (холодильник)CAT (Bosch)BRAND, ценой до (40к)PRICE.; Bosch KGN39VL45; 39990.
+Хочу (монитор)CAT (LG)BRAND до (12 тыс)PRICE.; LG 22MK400H; 11990.
+Ищу (умные часы)CAT (Samsung)BRAND, бюджет до (40к)PRICE.; Samsung Galaxy Watch 3; 39990.
+Нужен (телевизор)CAT (Philips)BRAND до (45к)PRICE.; Philips 43PUS7304/12; 44990.
+Покажи (камеру)CAT (Leica)BRAND, до (300к)PRICE.; Leica SL2; 299990.
+Мне нужен (планшет)CAT (Lenovo)BRAND до (35к)PRICE.; Lenovo Yoga Smart Tab; 34990.
+Ищу (наушники)CAT (Apple)BRAND до (20 тыс)PRICE.; Apple AirPods Max; 19990.
+Нужен (проектор)CAT (BenQ)BRAND, не дороже (55к)PRICE.; BenQ TH671ST; 54990.
+Хочу купить (кофемашину)CAT (Nespresso)BRAND до (25к)PRICE.; Nespresso CitiZ & Milk; 24990.
+Мне нужен (пылесос)CAT (LG)BRAND за (35к)PRICE.; LG VK79R; 34990.
+Помоги найти (наушники)CAT не дороже (2000 руб.)PRICE с оценкой выше (4.3)RAT.; JBL T110; 1990 руб.
+Мне нужен (смартфон)CAT до (15000)PRICE, который имеет рейтинг (4.5)RAT.; Xiaomi Redmi 9A; 14990 руб.
+Подбери (телевизор)CAT за (30к)PRICE с минимальным рейтингом (4.2)RAT.; Samsung UE32N5000AU; 29990 руб.
+Ищу (микроволновку)CAT стоимостью не более (8000)PRICE и рейтингом от (4.4)RAT.; LG MH6535GIS; 7990 руб.
+Хочу купить (кофемашину)CAT за (25000 руб.)PRICE с рейтингом не менее (4.6)RAT.; Philips EP1220/00; 24990 руб.
+Найдите (пылесос)CAT до (10 тыс)PRICE с оценкой (4.5)RAT.; Bosch BGN21800; 9990 руб.
+Покажи (утюг)CAT по цене до (3000)PRICE с рейтингом (4.3)RAT.; Tefal FV1845; 2990 руб.
+Хочу приобрести (холодильник)CAT не дороже (50 000)PRICE с рейтингом выше (4.4)RAT.; Indesit DS 4200 W; 49990 руб.
+Ищу для покупки (электрочайник)CAT за (1500 руб.)PRICE с минимальным рейтингом (4.2)RAT.; Scarlett SC-EK21S42; 1490 руб.
+Подскажите (плиту)CAT до (25к)PRICE с рейтингом (4.6)RAT.; GEFEST 3200-08; 24990 руб.
+Мне нужен (фотоаппарат)CAT за (40 000)PRICE с оценкой (4.5)RAT.; Canon EOS 2000D; 39990 руб.
+Хочу найти (портативную колонку)CAT не дороже (7000)PRICE и с рейтингом (4.3)RAT.; JBL Flip 5; 6990 руб.
+Подберите (ноутбук)CAT до (60000 руб.)PRICE с рейтингом (4.4)RAT.; Acer Aspire 5 A515-56; 59990 руб.
+Ищу (внешний жесткий диск)CAT за (4000)PRICE с рейтингом не менее (4.2)RAT.; WD Elements Portable; 3990 руб.
+Помогите выбрать (блендер)CAT до (5000 руб.)PRICE с оценкой (4.6)RAT.; Bosch MSM 66110; 4990 руб.
+Показать (смартфоны)CAT до (30к)PRICE с оценкой не менее (4.5)RAT.; Samsung Galaxy A52; 29990.
+Мне нужен (телевизор)CAT за (50 тыс)PRICE с рейтингом (4.6)RAT.; LG 43UM7100PLB; 49990.
+Ищу (ноутбук)CAT стоимостью до (60 000)PRICE и рейтингом (4.3)RAT.; ASUS VivoBook 15; 59990.
+Хочу купить (наушники)CAT не дороже (10к)PRICE и с рейтингом выше (4.4)RAT.; JBL TUNE 500BT; 3990.
+Подберите (пылесос)CAT до (25 000 руб.)PRICE с рейтингом (4.2)RAT.; Philips FC9332/09; 24990.
+Мне нужна (стиральная машина)CAT за (40к)PRICE с рейтингом минимум (4.5)RAT.; Samsung WW60J3080LW; 37990.
+Найти (микроволновку)CAT не более (15 тыс)PRICE с оценкой (4.3)RAT.; LG MH6336GIB; 14990.
+Подскажите (кондиционер)CAT до (35 000)PRICE с минимальным рейтингом (4.4)RAT.; Electrolux EACS/I-09HSL/N3; 34990.
+Ищу (холодильник)CAT за (45к)PRICE и с рейтингом (4.6)RAT.; Indesit DF 5200W; 44990.
+Хочу (планшет)CAT стоимостью не выше (20 тыс)PRICE и рейтингом (4.2)RAT.; Lenovo Tab M10; 19990.
+Подберите (монитор)CAT до (30 000 руб.)PRICE с рейтингом (4.5)RAT.; Samsung S24R350FHI; 28990.
+Мне нужен (электрочайник)CAT за (5к)PRICE с минимальной оценкой (4.4)RAT.; Tefal KO299830; 4990.
+Найдите (фотоаппарат)CAT до (50 тыс)PRICE с рейтингом не ниже (4.3)RAT.; Canon EOS 2000D; 49990.
+Ищу (плеер)CAT стоимостью до (7 000)PRICE и с рейтингом (4.5)RAT.; Sony NWZ-B183F; 6990.
+Хочу приобрести (кофемашину)CAT не дороже (60к)PRICE и с рейтингом (4.4)RAT.; De'Longhi Magnifica S ECAM 22.110.B; 59990.
+Нужен (принтер)CAT за (20к)PRICE с рейтингом (4.5)RAT.; HP LaserJet Pro M15w; 19990.
+Ищу (веб-камеру)CAT до (10 тыс)PRICE с оценкой не менее (4.3)RAT.; Logitech C920 HD Pro; 9990.
+Мне нужна (клавиатура)CAT за (5 000 руб.)PRICE с рейтингом (4.2)RAT.; Logitech K400 Plus; 4990.
+Подберите (игровую консоль)CAT до (30к)PRICE с минимальным рейтингом (4.6)RAT.; Sony PlayStation 4 Slim; 29990.
+Найти (электросамокат)CAT не дороже (40 тыс)PRICE и с рейтингом (4.4)RAT.; Xiaomi Mi Electric Scooter 1S; 39990.
+Ищу (фитнес-браслет)CAT до (5к)PRICE с рейтингом (4.5)RAT.; Xiaomi Mi Band 5; 3990.
+Мне нужен (умный дом)CAT за (15 тыс)PRICE с рейтингом не ниже (4.3)RAT.; Google Nest Hub; 14990.
+Подскажите (внешний жесткий диск)CAT до (8 000 руб.)PRICE с оценкой (4.2)RAT.; Western Digital Elements Portable; 7990.
+Хочу купить (планшетный ПК)CAT за (25к)PRICE с рейтингом (4.6)RAT.; Samsung Galaxy Tab A7; 24990.
+Найдите (графический планшет)CAT до (20 тыс)PRICE с рейтингом (4.4)RAT.; Wacom Intuos S; 19990.
+Ищу (музыкальный центр)CAT стоимостью до (15к)PRICE и с рейтингом (4.5)RAT.; Sony CMT-SBT20; 14990.
+Подберите (электрогриль)CAT до (10 000 руб.)PRICE с оценкой (4.3)RAT.; Tefal OptiGrill+ GC712D34; 9990.
+Мне нужна (система умный дом)CAT за (50к)PRICE с минимальной оценкой (4.4)RAT.; Xiaomi Mi Smart Home Kit; 49990.
+Хочу приобрести (видеокамеру)CAT не дороже (35 тыс)PRICE и с рейтингом (4.6)RAT.; Canon Legria HF R806; 34990.
+Найти (мини-печь)CAT до (15к)PRICE с рейтингом не ниже (4.2)RAT.; Scarlett SC-MC410S11; 14990.
+Подберите (электрический обогреватель)CAT до (8 тыс)PRICE с рейтингом (4.5)RAT.; Polaris PKSH 0508H; 7990.
+Ищу (весы кухонные)CAT за (3 000 руб.)PRICE с оценкой не менее (4.4)RAT.; Redmond RS-M723; 2990.
+Мне нужен (вентилятор)CAT до (5к)PRICE с минимальным рейтингом (4.3)RAT.; Xiaomi Mi Smart Standing Fan 1C; 4990.
+Хочу купить (кофеварку)CAT за (20 тыс)PRICE с рейтингом (4.2)RAT.; De'Longhi EC 685.M; 19990.
+Найдите (соковыжималку)CAT до (10к)PRICE с оценкой (4.6)RAT.; Philips HR1832/02; 9990.
+Подскажите (массажёр)CAT до (15 000 руб.)PRICE с рейтингом (4.5)RAT.; Medisana MC 810; 14990.
+Ищу (пароочиститель)CAT за (12к)PRICE и с рейтингом (4.4)RAT.; Karcher SC 3 EasyFix; 11990.
+Хочу (швейную машину)CAT стоимостью не выше (25 тыс)PRICE и рейтингом (4.3)RAT.; Janome 2139N; 24990.
+Мне нужен (миксер)CAT до (7 000 руб.)PRICE с рейтингом (4.2)RAT.; Bosch MFQ 36400; 6990.
+Подберите (пароварку)CAT до (6к)PRICE с минимальной оценкой (4.5)RAT.; Tefal VC130130; 5990.
+Найди (электроскейтборд)CAT за (30 тыс)PRICE с рейтингом (4.4)RAT.; RazorX Cruiser; 29990.
+Ищу (блендер)CAT до (8 000 руб.)PRICE с оценкой не менее (4.6)RAT.; Braun MQ 5045 Aperitive; 7990.
+Мне нужна (камера наблюдения)CAT за (12к)PRICE с рейтингом (4.3)RAT.; Xiaomi Mi Home Security Camera 360; 11990.
+Хочу приобрести (радионяню)CAT не дороже (10 тыс)PRICE и с рейтингом (4.5)RAT.; Philips Avent SCD501/00; 9990.
+Покажи (телевизоры)CAT за (30000 руб.)PRICE с рейтингом (4.5)RAT.; Samsung Crystal UHD; 29990.
+Мне нужен (ноутбук)CAT до (80000)PRICE, оценка не менее (4.2)RAT.; Lenovo IdeaPad 3; 77990.
+Ищу (смартфон)CAT стоимостью до (25к)PRICE и с хорошими отзывами, от (4.3)RAT.; Xiaomi Redmi Note 9; 24990.
+Нужен (пылесос)CAT до (15000)PRICE с рейтингом не ниже (4.4)RAT.; Philips PowerPro Compact; 14990.
+Можешь найти (стиральную машину)CAT не дороже (40 тыс)PRICE с рейтингом (4.6)RAT.; LG F2J5WN3W; 39990.
+Хочу купить (микроволновку)CAT за (10000)PRICE, которая имеет оценку (4.3)RAT.; Samsung ME83X; 9990.
+Найди (кофемашину)CAT до (30к)PRICE с минимальным рейтингом (4.5)RAT.; De'Longhi Magnifica S; 29990.
+Ищу (блендер)CAT не дороже (5000)PRICE с хорошими отзывами, не менее (4.4)RAT.; Bosch ErgoMixx; 4990.
+Мне нужна (электробритва)CAT за (8000 руб.)PRICE с рейтингом (4.6)RAT.; Philips Series 5000; 7990.
+Подбери (фотоаппарат)CAT до (60000)PRICE с рейтингом не ниже (4.5)RAT.; Canon EOS M50; 59990.
+Хочу (увлажнитель воздуха)CAT за (7000)PRICE с оценкой (4.2)RAT.; Zanussi ZHU/A-60; 6990.
+Мне нужен (плеер)CAT до (10000 руб.)PRICE с рейтингом (4.3)RAT.; Sony Walkman NW-A55; 9990.
+Ищу (наушники)CAT за (15к)PRICE с минимальной оценкой (4.4)RAT.; JBL Live 500BT; 14990.
+Найди (кондиционер)CAT не дороже (50 тыс)PRICE с рейтингом (4.5)RAT.; Samsung AR12TXFCAWK; 49990.
+Мне нужна (электрическая зубная щетка)CAT за (6000)PRICE с оценкой не менее (4.6)RAT.; Oral-B Pro 3000; 5990.
+Подбери (тостер)CAT до (4000 руб.)PRICE с рейтингом (4.3)RAT.; Philips Daily Collection; 3990.
+Хочу купить (чайник)CAT за (2500)PRICE с хорошими отзывами, минимум (4.4)RAT.; Bosch TWK3A011; 2490.
+Мне нужен (гриль)CAT до (20к)PRICE с рейтингом не ниже (4.5)RAT.; Tefal OptiGrill+; 19990.
+Ищу (мультиварку)CAT за (15 тыс)PRICE с оценкой (4.6)RAT.; Redmond RMC-M90; 14990.
+Найди (электроплиту)CAT до (25к)PRICE с минимальным рейтингом (4.2)RAT.; Gorenje EC5111WG; 24990.
+Хочу (посудомоечную машину)CAT за (45 тыс)PRICE с рейтингом (4.4)RAT.; Bosch Serie 4; 44990.
+Мне нужна (вытяжка)CAT до (30 000)PRICE с оценкой не менее (4.3)RAT.; Elica Stripe; 29990.
+Ищу (варочную панель)CAT стоимостью до (20000 руб.)PRICE с хорошими отзывами, от (4.5)RAT.; Hansa BHCI65123035; 19990.
+Найди (духовой шкаф)CAT за (40к)PRICE с минимальным рейтингом (4.6)RAT.; Electrolux EOB3434BOX; 39990.
+Мне нужен (планшет)CAT до (50000)PRICE с рейтингом (4.7)RAT.; Huawei MatePad Pro; 39990.

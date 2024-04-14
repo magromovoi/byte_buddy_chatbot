@@ -315,7 +315,7 @@ async def unknown(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 def run():
-    application = ApplicationBuilder().token(dget_api_token()).build()
+    application = ApplicationBuilder().token(get_api_token()).build()
     start_handler = CommandHandler('start', start)
     query_handler = MessageHandler(filters.TEXT & (~filters.COMMAND), process_query)
     unknown_handler = MessageHandler(filters.COMMAND, unknown)

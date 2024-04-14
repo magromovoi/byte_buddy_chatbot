@@ -1,0 +1,705 @@
+id;name;price;brand;category;rating
+0;Motorola Edge;39990;Motorola;Смартфон;4.82
+1;LaCie Porsche Design Mobile Drive;7990;LaCie;Внешний HDD;4.77
+2;Lenovo ThinkPad E490;54990;Lenovo;ноутбук;4.07
+3;Huawei P20 Pro;39990;Huawei;смартфон;4.7
+4;Asus ROG Phone 2;69990;Asus;смартфон;4.61
+5;LG G3;9990;LG;смартфон;4.05
+6;Apple Apple Watch Series 5;32990;Apple;смарт-часы;4.56
+7;Microsoft Xbox Adaptive Controller;9990;Microsoft;игровой контроллер;4.77
+8;Siemens KG39NXI35;49990;Siemens;холодильник;4.42
+9;Dell Alienware Area-51m;299990;Dell;игровой ноутбук;4.59
+10;Microsoft Surface Book 2;149990;Microsoft;ноутбук;4.44
+11;Indesit DS 4160 W;19990;Indesit;холодильник;4.53
+12;Acer Aspire 7;54990;Acer;ноутбук;4.87
+13;Nespresso CitiZ & Milk;24990;Nespresso;кофемашину;4.12
+14;LG OLED55B9;74990;LG;телевизор;4.14
+15;Nikon D5600;49990;Nikon;фотоаппарат;4.74
+16;Lenovo ThinkPad T480;74990;Lenovo;ноутбук;4.98
+17;LG K10;8990;LG;смартфон;4.26
+18;Western Digital My Passport;6990;Western Digital;Внешний HDD;4.78
+19;Olympus OM-D E-M10 Mark III;49990;Olympus;камеру;4.22
+20;Microsoft Xbox One;24990;Microsoft;игровая консоль;4.96
+21;Samsung T7 Portable SSD;15990;Samsung;Внешний SSD;4.72
+22;LG G6;19990;LG;смартфон;4.21
+23;Bose QuietControl 30;17990;Bose;наушники;4.3
+24;Sony Xperia Z5;25990;Sony;смартфон;4.3
+25;Apple iPad Pro;79990;Apple;планшет;4.42
+26;De'Longhi EC 685.M;19990;De'Longhi;кофеварку;4.01
+27;Apple iPod Touch;19990;Apple;плеер;4.29
+28;Google Pixel C;49990;Google;планшет;4.64
+29;Indesit DS 4200 W;49990;Indesit;холодильник;4.34
+30;Dell Inspiron 15 7577;69990;Dell;ноутбук;4.75
+31;Sony WH-1000XM3;21990;Sony;беспроводные наушники;4.25
+32;Sony KD-43XG7096;59990;Sony;телевизор;4.72
+33;Asus ROG Zephyrus M;119990;Asus;игровой ноутбук;4.61
+34;Indesit DF 5200W;44990;Indesit;холодильник;4.66
+35;Beko BCHA275K3S;34990;Beko;холодильник;4.28
+36;Panasonic Lumix GH5;129990;Panasonic;Камера;4.83
+37;Acer Chromebook 714;39990;Acer;ноутбук;4.85
+38;Olympus OM-D E-M10 Mark IV;64990;Olympus;Камера;4.08
+39;Acer Chromebook Spin 713;54990;Acer;ноутбук;4.37
+40;Samsung U28E590D;29990;Samsung;монитор;4.75
+41;Canon Legria HF R806;34990;Canon;видеокамеру;4.63
+42;Fujifilm X-T4;154990;Fujifilm;Камера;4.9
+43;RazorX Cruiser;29990;RazorX;электроскейтборд;4.02
+44;HP Pavilion 15-cs3006ur;54990;HP;ноутбук;4.86
+45;Bosch BGN21800;9990;Bosch;пылесос;4.57
+46;LG GA-B459SMUM;44990;LG;холодильник;4.1
+47;Netgear Nighthawk Router;14990;Netgear;Роутер;4.49
+48;Apple iPhone SE;39990;Apple;смартфон;4.92
+49;GoPro MAX;45990;GoPro;Экшн-камера;4.33
+50;Apple iPhone SE (2020);39990;Apple;Смартфон;4.01
+51;Asus Zenfone 7;49990;Asus;смартфон;4.11
+52;Hansa BHCI65123035;19990;Hansa;варочную панель;4.02
+53;Amazon Kindle Oasis;15990;Amazon;Электронная книга;4.64
+54;OnePlus 9 Pro;64990;OnePlus;Смартфон;4.12
+55;Sony WH-XB900N;19990;Sony;Наушники;4.58
+56;Redmond RS-M723;2990;Redmond;весы кухонные;4.48
+57;Sony PlayStation 2;6990;Sony;игровая консоль;4.59
+58;BenQ MW533;49990;BenQ;проектор;4.95
+59;WD Elements Portable;3990;WD;внешний жесткий диск;4.0
+60;Microsoft Surface Go 2;79990;Microsoft;планшет;4.93
+61;Samsung ME83X;9990;Samsung;микроволновку;4.04
+62;Nikon Z6;139990;Nikon;Камера;4.54
+63;GoPro Hero 8 Black;29990;GoPro;камеру;4.34
+64;Acer H6517ABD;59990;Acer;проектор;4.28
+65;Apple MacBook Pro 13;119990;Apple;ноутбук;4.28
+66;Samsung WW60J3080LW;37990;Samsung;стиральная машина;4.78
+67;Lenovo ThinkPad X1 Carbon;120990;Lenovo;Ноутбук;4.72
+68;Lenovo Tab M8;9990;Lenovo;планшет;4.53
+69;Oppo Find X3 Pro;59990;Oppo;Смартфон;4.14
+70;HP ZBook Studio;184990;HP;ноутбук;4.45
+71;LG Stylo 6;12990;LG;смартфон;4.96
+72;Acer V206HQL;9990;Acer;монитор;4.17
+73;Amazfit Bip;6990;Amazfit;умные часы;4.76
+74;Lexar JumpDrive S75;1990;Lexar;Флеш-накопитель;4.1
+75;HyperX Cloud II Headset;9990;HyperX;Гарнитура;4.49
+76;Asus ZenBook 14;69990;Asus;ноутбук;4.98
+77;De'Longhi Magnifica S ECAM 22.110.B;59990;De'Longhi;кофемашину;4.68
+78;Apple iPhone 7;19990;Apple;смартфон;4.64
+79;Xbox Series S;34990;Microsoft;Игровая консоль;4.36
+80;OnePlus Nord N100;13990;OnePlus;смартфон;4.61
+81;Apple iPhone 8;24990;Apple;смартфон;4.41
+82;HP Pavilion x360;49990;HP;ноутбук;4.31
+83;LG 24MK600M;19990;LG;монитор;4.0
+84;DJI Mavic Air 2;59990;DJI;Дрон;4.91
+85;Microsoft Surface Book 3;150990;Microsoft;Ноутбук;4.24
+86;Dell Inspiron 15 7000;59990;Dell;ноутбук;4.0
+87;Lenovo Yoga Book;29990;Lenovo;планшет;4.85
+88;Hisense H55U7B;44990;Hisense;телевизор;4.6
+89;"LG CX OLED 65""";199990;LG;Телевизор;4.24
+90;Asus ROG Phone 3;69990;Asus;смартфон;4.67
+91;Tefal VC130130;5990;Tefal;пароварку;4.19
+92;MSI GF63 Thin;99990;MSI;ноутбук;4.75
+93;Dell Inspiron 15 3000;45990;Dell;Ноутбук;4.32
+94;Elgato Key Light;14990;Elgato;Свет для стрима;4.18
+95;Bosch ErgoMixx;4990;Bosch;блендер;4.25
+96;Google Pixel Slate;54990;Google;планшет;5.0
+97;Apple iPhone 5;6990;Apple;смартфон;4.39
+98;Sony PlayStation 4 Slim;29990;Sony;игровую консоль;4.12
+99;Bosch Serie 4 WAN24260BY;59990;Bosch;стиральная машина;4.36
+100;Kingston DataTraveler 2000;10990;Kingston;Флеш-накопитель;4.92
+101;HP 15s-eq1053ur;34990;HP;ноутбук;4.55
+102;Toshiba 49U5865EC;49990;Toshiba;телевизор;4.22
+103;Apple Watch Series 6;29990;Apple;Умные часы;4.36
+104;OnePlus 5T;29990;OnePlus;смартфон;4.61
+105;Asus TUF Gaming A15;79990;Asus;игровой ноутбук;4.27
+106;Vitek VT-1833;6990;Vitek;пылесос;4.25
+107;Epson EB-X41;39990;Epson;проектор;4.09
+108;Sony WF-1000XM3;19990;Sony;беспроводные наушники;4.41
+109;AOC I2481FXH;17990;AOC;монитор;4.0
+110;Asus ZenBook Flip 14;69990;Asus;ноутбук;4.23
+111;Tefal OptiGrill+ GC712D34;9990;Tefal;электрогриль;4.27
+112;Microsoft Surface Go;34990;Microsoft;планшет;4.96
+113;OnePlus Nord N200;15990;OnePlus;смартфон;4.46
+114;LG GA-B459CLWL;49990;LG;холодильник;4.28
+115;Logitech K400 Plus;4990;Logitech;клавиатура;4.8
+116;Nikon Z50;74990;Nikon;Камера;4.35
+117;Microsoft Surface 3;29990;Microsoft;планшет;4.62
+118;Philips HR1832/02;9990;Philips;соковыжималку;4.4
+119;Canon EOS-1D X Mark III;199990;Canon;камеру;4.87
+120;Epson Home Cinema 2200;65990;Epson;Проектор;4.15
+121;Marshall Emberton;10990;Marshall;Портативная колонка;4.54
+122;LG VK79R;34990;LG;пылесос;4.36
+123;Sony NWZ-B183F;6990;Sony;плеер;4.23
+124;Lenovo IdeaCentre AIO 3;49990;Lenovo;настольный компьютер;4.58
+125;Scarlett SC-EK21S42;1490;Scarlett;электрочайник;4.0
+126;LG Q60;15990;LG;смартфон;4.96
+127;LG Gram 16;89990;LG;Ноутбук;4.99
+128;Seagate Expansion Portable 2TB;5990;Seagate;Внешний HDD;4.19
+129;Lenovo ThinkPad E15;39990;Lenovo;ноутбук;4.28
+130;Dell G5 15;74990;Dell;игровой ноутбук;4.41
+131;Samsung Galaxy Note 20 Ultra;99990;Samsung;Смартфон;4.07
+132;GoPro HERO8 Black;31990;GoPro;Экшн-камера;4.71
+133;Olympus Tough TG-6;34990;Olympus;Камера;4.77
+134;Acer Nitro 7;69990;Acer;ноутбук;4.41
+135;Philips 43PUS7304/12;44990;Philips;телевизор;4.81
+136;Samsung Galaxy Tab S6;39990;Samsung;планшет;4.75
+137;Samsung Galaxy S7;19990;Samsung;смартфон;4.12
+138;Microsoft Xbox One X;39990;Microsoft;игровая консоль;4.07
+139;Gaggia Accademia;99990;Gaggia;кофемашину;4.38
+140;Asus ZenBook Duo;99990;Asus;Ноутбук;4.19
+141;Electrolux EN6086JOX;79990;Electrolux;холодильник;4.22
+142;OnePlus Nord 2;29990;OnePlus;смартфон;4.13
+143;HP ProDesk 400;39990;HP;настольный компьютер;4.65
+144;Marshall Major III;9990;Marshall;наушники;4.02
+145;Dell Inspiron 14;44990;Dell;ноутбук;4.2
+146;Bosch BGC05A220A;14990;Bosch;пылесос;4.67
+147;Amazon Echo (4th Gen);9990;Amazon;Умная колонка;4.44
+148;Huawei P Smart;14990;Huawei;смартфон;4.84
+149;Sony CMT-SBT20;14990;Sony;музыкальный центр;4.08
+150;Apple iPhone XR;42990;Apple;смартфон;4.24
+151;Sony PXW-Z90;149990;Sony;камеру;4.09
+152;GEFEST 3200-08;24990;GEFEST;плиту;4.29
+153;HP Spectre x360;110990;HP;Ноутбук;4.27
+154;Skullcandy Crusher ANC;18990;Skullcandy;Наушники;4.77
+155;Garmin Forerunner 245;22990;Garmin;Умные часы;4.63
+156;Apple Mac Pro;449990;Apple;Компьютер;4.6
+157;Samsung Galaxy S8;29990;Samsung;смартфон;4.35
+158;Microsoft Xbox Series S;29990;Microsoft;игровая консоль;4.48
+159;Samsung Galaxy A50;19990;Samsung;смартфон;4.79
+160;JBL Tune 500BT;6990;JBL;наушники;4.22
+161;HP EliteBook 850;89990;HP;ноутбук;4.8
+162;Canon PowerShot G7 X Mark III;49990;Canon;Камера;4.26
+163;Fitbit Charge 4;11990;Fitbit;умные часы;4.07
+164;AOC G2460VQ6;14990;AOC;монитор;4.43
+165;Samsung QE55Q60TAU;79990;Samsung;телевизор;4.54
+166;Acer Nitro 5;59990;Acer;ноутбук;4.24
+167;Marshall Stanmore II;35990;Marshall;Колонка;4.67
+168;Dyson V8 Absolute;29990;Dyson;пылесос;4.34
+169;Google Pixel XL;39990;Google;смартфон;4.86
+170;Tefal FV1845;2990;Tefal;утюг;4.64
+171;Acer Aspire E15;34990;Acer;ноутбук;4.97
+172;Samsung Galaxy Z Flip;99990;Samsung;смартфон;4.55
+173;Acer Swift 3;49990;Acer;Ноутбук;4.03
+174;Logitech C920 Webcam;6990;Logitech;Веб-камера;4.42
+175;Acer Iconia One 10;19990;Acer;планшет;4.84
+176;Leica Q2;199990;Leica;камеру;4.24
+177;Asus TUF Gaming F15;79990;Asus;ноутбук;4.2
+178;Acer Predator Helios 300;99990;Acer;Ноутбук;4.41
+179;Realme 7;19990;Realme;смартфон;4.98
+180;DJI Osmo Pocket;25990;DJI;Камера;4.8
+181;OnePlus 7 Pro;49990;OnePlus;смартфон;4.16
+182;Lenovo ThinkStation P520;199990;Lenovo;рабочая станция;4.62
+183;"Hisense H8G 55""";37990;Hisense;Телевизор;4.31
+184;Apple iPad;19990;Apple;планшет;4.64
+185;JBL Tune 750BTNC;7990;JBL;наушники;4.61
+186;"Apple MacBook 12""";89990;Apple;ноутбук;4.1
+187;"MacBook Pro 16""";189990;Apple;Ноутбук;4.39
+188;Panasonic Lumix DC-GH5;69990;Panasonic;камеру;4.64
+189;LG VK76A03NTA;24990;LG;пылесос;4.47
+190;Dell E2216HV;14990;Dell;монитор;4.44
+191;Microsoft Surface Laptop 4;105990;Microsoft;Ноутбук;4.55
+192;Microsoft Surface Laptop 2;79990;Microsoft;ноутбук;4.33
+193;JVC DLA-NX5;449990;JVC;Проектор;4.01
+194;Apple iPhone XS;74990;Apple;смартфон;4.19
+195;Xiaomi Mi Band 5;3990;Xiaomi;фитнес-браслет;4.38
+196;LG G5;14990;LG;смартфон;4.83
+197;HP Pavilion 15;54990;HP;ноутбук;4.12
+198;Sharp LC-55UI7252E;54990;Sharp;телевизор;4.12
+199;Huawei Nova 5i;21990;Huawei;смартфон;4.79
+200;OnePlus Nord;27990;OnePlus;Смартфон;4.69
+201;Acer Iconia Tab 10;24990;Acer;планшет;4.78
+202;OnePlus Nord N10;27990;OnePlus;смартфон;4.18
+203;"Philips 4K UHD Smart TV 55""";49990;Philips;Телевизор;4.96
+204;Polaroid Now;9990;Polaroid;Фотоаппарат;4.24
+205;Rancilio Silvia;89990;Rancilio;кофемашину;4.99
+206;Fujifilm X-T100;24990;Fujifilm;камеру;4.35
+207;Xiaomi Redmi 9A;14990;Xiaomi;смартфон;4.6
+208;Sony A6400;85990;Sony;Камера;4.04
+209;Fitbit Versa 3;19990;Fitbit;умные часы;4.81
+210;BenQ GW2270H;9990;BenQ;монитор;4.35
+211;Xiaomi Mi Electric Scooter 1S;39990;Xiaomi;электросамокат;4.92
+212;Samsung AR12TXFCAWK;49990;Samsung;кондиционер;4.92
+213;Xiaomi Mi Watch;9990;Xiaomi;умные часы;4.67
+214;Dell Latitude 7410;89990;Dell;ноутбук;4.7
+215;SanDisk Extreme Pro Portable SSD;14990;SanDisk;Внешний SSD;4.12
+216;Asus TUF Gaming FX505;64990;Asus;игровой ноутбук;4.58
+217;Sony PlayStation VR;25990;Sony;виртуальная реальность;4.65
+218;Sony VPL-VW295ES;299990;Sony;Проектор;4.07
+219;Apple AirPods Max;19990;Apple;наушники;4.3
+220;Microsoft Surface Pro 6;74990;Microsoft;планшет;4.42
+221;Philips HD8829;24990;Philips;кофемашину;4.9
+222;Rancilio Classe 5 USB;119990;Rancilio;кофемашину;4.75
+223;Apple MacBook;99990;Apple;ноутбук;4.46
+224;Lenovo ThinkPad E14;54990;Lenovo;ноутбук;4.23
+225;Arlo Pro 3 Security Camera;22990;Arlo;Камера безопасности;5.0
+226;PNY Pro Elite USB 3.0 Flash Drive;2990;PNY;Флеш-накопитель;4.15
+227;DJI Pocket 2;27990;DJI;Камера;4.54
+228;Apple MacBook Air M1;84990;Apple;Ноутбук;4.13
+229;OnePlus 7T Pro;53990;OnePlus;смартфон;4.25
+230;Samsung Galaxy J7;14990;Samsung;смартфон;4.66
+231;Apple Watch Series 5;49990;Apple;умные часы;4.44
+232;Dell XPS 15;89990;Dell;ноутбук;4.3
+233;Dell Vostro 15;55990;Dell;ноутбук;4.1
+234;Philips SHP6000;5990;Philips;наушники;5.0
+235;Acer Aspire 1;19990;Acer;ноутбук;4.2
+236;Sony PlayStation 5 Digital Edition;39990;Sony;игровая консоль;4.48
+237;Google Pixel 4;59990;Google;смартфон;4.3
+238;Lenovo Legion 7i;149990;Lenovo;игровой ноутбук;4.8
+239;Samsung C24F390FHI;24990;Samsung;монитор;4.25
+240;BenQ TK850;79990;BenQ;проектор;4.08
+241;Dell Precision 5530;139990;Dell;ноутбук;4.17
+242;Kindle Paperwhite;12990;Amazon;Электронная книга;4.21
+243;TP-Link Archer C7;5990;TP-Link;Роутер;4.8
+244;Optoma HD144X;74990;Optoma;проектор;4.79
+245;Samsung VC07M2110SR;19990;Samsung;пылесос;4.09
+246;Samsung Galaxy Fit 2;4990;Samsung;Фитнес-браслет;4.9
+247;Samsung Galaxy Book S;79990;Samsung;Ноутбук;4.31
+248;Siemens EQ.6 plus s700;59990;Siemens;кофемашину;4.39
+249;Sony KD-55XG8577;99990;Sony;телевизор;4.96
+250;Ultimate Ears Boom 3;12990;Ultimate Ears;Портативная колонка;4.32
+251;GoPro HERO9 Black;37990;GoPro;Экшн-камера;5.0
+252;Canon EOS M50;59990;Canon;фотоаппарат;4.07
+253;Lenovo Yoga Slim 7;65990;Lenovo;Ноутбук;4.18
+254;Razer Kiyo Webcam;10990;Razer;Веб-камера;4.77
+255;Roomba i7+;54990;iRobot;Робот-пылесос;4.22
+256;Gorenje EC5111WG;24990;Gorenje;электроплиту;4.15
+257;Microsoft Xbox One S;24990;Microsoft;игровая консоль;4.72
+258;Samsung Galaxy S20;79990;Samsung;смартфон;4.0
+259;Dell Latitude 5490;64990;Dell;ноутбук;4.7
+260;Nespresso Lattissima One;29990;Nespresso;кофемашину;5.0
+261;Huawei Watch GT 2;19990;Huawei;умные часы;4.44
+262;Philips 273V7QDAB;19990;Philips;монитор;4.76
+263;Microsoft Xbox Series X;45990;Microsoft;Игровая консоль;4.7
+264;Tile Mate (2020);2990;Tile;Трекер;4.39
+265;Adata SD700 External SSD;6990;Adata;Внешний SSD;4.52
+266;Canon PowerShot SX740;24990;Canon;Камера;4.05
+267;Whirlpool WTNF 92O X H;54990;Whirlpool;холодильник;4.77
+268;OnePlus 6;24990;OnePlus;смартфон;4.58
+269;Garmin Fenix 6;29990;Garmin;умные часы;4.28
+270;Seagate Backup Plus;7990;Seagate;Внешний HDD;4.59
+271;Dell Vostro 14;44990;Dell;ноутбук;4.29
+272;Bose 700 Noise Cancelling Headphones;26990;Bose;Наушники;4.75
+273;Samsung Galaxy Buds Pro;17990;Samsung;Наушники;4.43
+274;LG HU80KS;99990;LG;проектор;4.85
+275;Apple iPhone 5s;9990;Apple;смартфон;4.98
+276;Scarlett SC-MC410S11;14990;Scarlett;мини-печь;4.01
+277;Philips SHB4205BK;7990;Philips;наушники;4.55
+278;Apple MacBook Pro;122990;Apple;ноутбук;4.87
+279;Apple Apple TV 4K;17990;Apple;медиаплеер;4.63
+280;Indesit DF 4180W;29990;Indesit;холодильник;4.32
+281;Microsoft Xbox 360;9990;Microsoft;игровая консоль;4.08
+282;LG K50;11990;LG;смартфон;4.11
+283;Sharp SJ-BA10IHXW1-RU;29990;Sharp;холодильник;4.73
+284;LG MH6535GIS;7990;LG;микроволновку;4.15
+285;Electrolux EAPC53IS;9990;Electrolux;пылесос;4.02
+286;Fitbit Versa 2;14990;Fitbit;умные часы;4.01
+287;Asus ProArt PA248QV;24990;Asus;монитор;4.53
+288;Samsung Galaxy Note 10;79990;Samsung;смартфон;4.47
+289;Google Pixel 2;29990;Google;смартфон;4.13
+290;Google Pixelbook Go;64990;Google;ноутбук;4.61
+291;Philips Avent SCD501/00;9990;Philips;радионяню;4.6
+292;OnePlus 8;49990;OnePlus;смартфон;4.12
+293;Roku Streaming Stick+;6990;Roku;Медиаплеер;4.21
+294;Xiaomi Mi Notebook Pro 14;56990;Xiaomi;Ноутбук;4.82
+295;Apple iPhone 6s;14990;Apple;смартфон;4.62
+296;Dyson V11 Absolute;49990;Dyson;пылесос;4.17
+297;Lenovo ThinkPad X1 Yoga;99990;Lenovo;ноутбук;4.86
+298;Lenovo IdeaPad 3;77990;Lenovo;ноутбук;4.15
+299;Corsair Flash Survivor Stealth 64GB;3990;Corsair;Флеш-накопитель;4.3
+300;Panasonic Lumix DMC-G7;79990;Panasonic;камеру;4.66
+301;Acer Aspire 5;49990;Acer;ноутбук;4.58
+302;Sony PlayStation 4;25990;Sony;игровая консоль;4.31
+303;Acer Predator Orion 3000;89990;Acer;настольный компьютер;4.65
+304;Bosch TWK7805;4990;Bosch;электрочайник;4.9
+305;Sony Xperia Z3;15990;Sony;смартфон;4.41
+306;Panasonic TX-55HZ1000 OLED;119990;Panasonic;Телевизор;4.11
+307;Dell XPS 17;199990;Dell;ноутбук;4.54
+308;Sony Xperia 5 II;69990;Sony;Смартфон;4.08
+309;Canon EOS 2000D;49990;Canon;фотоаппарат;4.8
+310;Anker Soundcore Liberty Air 2;9990;Anker;Наушники;4.19
+311;Apple iPad Mini;34990;Apple;планшет;4.98
+312;Acer Swift 5;59990;Acer;ноутбук;4.04
+313;Miele Complete C3;59990;Miele;пылесос;4.37
+314;SanDisk Extreme Portable SSD;12990;SanDisk;Внешний SSD;4.43
+315;LG MH6336GIB;14990;LG;микроволновку;4.9
+316;Sony Xperia 1 II;79990;Sony;Смартфон;4.48
+317;Bosch KGN39VL45;39990;Bosch;холодильник;4.55
+318;JBL Live 500BT;14990;JBL;наушники;4.34
+319;Microsoft Surface Pro X;89990;Microsoft;планшет;4.93
+320;UE Megaboom 3;15990;Ultimate Ears;Портативная колонка;4.74
+321;"Vizio P-Series Quantum 65""";89990;Vizio;Телевизор;4.59
+322;OnePlus 5;29990;OnePlus;смартфон;4.66
+323;Samsung Galaxy Watch Active 2;34990;Samsung;умные часы;4.93
+324;Bosch MFQ 36400;6990;Bosch;миксер;4.56
+325;Google Pixel 5;59990;Google;Смартфон;4.46
+326;Xiaomi Mi Home Security Camera 360;11990;Xiaomi;камера наблюдения;4.47
+327;Huawei Mate 20;39990;Huawei;смартфон;4.23
+328;Sony VPL-EX435;99990;Sony;проектор;4.45
+329;OnePlus Nord CE;22990;OnePlus;смартфон;4.42
+330;HP ProBook 450;59990;HP;ноутбук;4.24
+331;Dell P2419H;24990;Dell;монитор;4.16
+332;LG 43UM7100PLB;49990;LG;телевизор;4.71
+333;Apple iPad 6th generation;24990;Apple;планшет;4.89
+334;Karcher WD 3;11990;Karcher;пылесос;4.23
+335;Blue Yeti Microphone;12990;Blue;Микрофон;4.72
+336;Samsung Galaxy A71;29990;Samsung;смартфон;4.59
+337;Huawei Mate 20 Pro;49990;Huawei;смартфон;4.58
+338;Apple iPhone X;69990;Apple;смартфон;4.79
+339;Lenovo Legion Y540;49990;Lenovo;ноутбук;4.67
+340;Xiaomi Redmi Note 10;14990;Xiaomi;смартфон;4.28
+341;Philips Series 5000;7990;Philips;электробритва;4.6
+342;Bose Home Speaker 300;14990;Bose;Умная колонка;4.51
+343;LG Velvet;29990;LG;смартфон;4.48
+344;Acer TravelMate X5;74990;Acer;ноутбук;4.75
+345;Crucial X8 Portable SSD;9990;Crucial;Внешний SSD;4.23
+346;LG 22MK400H;11990;LG;монитор;4.43
+347;Sennheiser PXC 550-II;21990;Sennheiser;наушники;4.53
+348;LG Tone Free;8990;LG;беспроводные наушники;4.77
+349;Garmin Venu;24990;Garmin;умные часы;4.92
+350;Medisana MC 810;14990;Medisana;массажёр;4.01
+351;Nikon D850;199990;Nikon;Камера;4.68
+352;OnePlus 8T;49990;OnePlus;смартфон;4.19
+353;HP Spectre Folio;129990;HP;ноутбук;4.12
+354;Acer Spin 5;59990;Acer;ноутбук;4.54
+355;Acer Aspire 5 A515-56;59990;Acer;ноутбук;4.54
+356;Lenovo IdeaPad L340;44990;Lenovo;ноутбук;4.51
+357;Huawei Y6p;9990;Huawei;смартфон;4.07
+358;Apple Watch Series 3;24990;Apple;умные часы;4.15
+359;Sony Alpha A7 III;99990;Sony;камеру;4.55
+360;Wacom Intuos S;19990;Wacom;графический планшет;4.88
+361;Huawei Mate 30 Pro;69990;Huawei;смартфон;4.5
+362;De'Longhi Magnifica S;29990;De'Longhi;кофемашину;4.37
+363;Lenovo Legion 5;67990;Lenovo;игровой ноутбук;4.41
+364;Rowenta RO3731EA;19990;Rowenta;пылесос;4.45
+365;Apple iMac;104990;Apple;настольный компьютер;4.56
+366;Sharp SJ-EX820FSL;49990;Sharp;холодильник;4.92
+367;LG Nexus 5X;14990;LG;смартфон;4.9
+368;Sony WH-CH510;8990;Sony;наушники;4.85
+369;Asus ROG Phone 5;79990;Asus;смартфон;4.03
+370;Logitech C920 HD Pro;9990;Logitech;веб-камеру;4.72
+371;Dyson Cyclone V10 Absolute;69990;Dyson;пылесос;4.85
+372;Dell G3 15;59990;Dell;игровой ноутбук;4.62
+373;Bosch MSM 66110;4990;Bosch;блендер;4.15
+374;Siemens TE653318RW;49990;Siemens;кофемашину;4.11
+375;Samsung Galaxy Tab A7;24990;Samsung;планшетный ПК;4.31
+376;Panasonic Lumix S5;149990;Panasonic;Камера;4.7
+377;LG Gram 17;99990;LG;ноутбук;4.06
+378;Sony Xperia 5;51990;Sony;смартфон;4.87
+379;Samsung S24R350FHI;28990;Samsung;монитор;4.2
+380;Google Home;8990;Google;смарт-колонка;4.56
+381;Samsung Galaxy Fold 2;179990;Samsung;Смартфон;4.25
+382;LG SN7Y Sound Bar;27990;LG;Саундбар;4.68
+383;LG V40 ThinQ;34990;LG;смартфон;4.87
+384;Lenovo ThinkPad L390;54990;Lenovo;ноутбук;4.81
+385;Apple Mac Mini;64990;Apple;настольный компьютер;4.58
+386;OnePlus 3;19990;OnePlus;смартфон;4.11
+387;Apple AirPods Pro;24990;Apple;наушники;4.4
+388;G-Technology G-Drive Mobile;8990;G-Technology;Внешний HDD;4.81
+389;Epson EB-S41;39990;Epson;проектор;4.31
+390;iPad Pro 12.9;99990;Apple;Планшет;5.0
+391;Nespresso Inissia C40;19990;Nespresso;кофемашину;4.46
+392;Rowenta RO6984EA;29990;Rowenta;пылесос;4.94
+393;OnePlus Nord CE 5G;27990;OnePlus;смартфон;4.05
+394;Sony WH-1000XM4;26990;Sony;Наушники;4.92
+395;Google Pixel 3;44990;Google;смартфон;4.31
+396;Dell G7 17;89990;Dell;игровой ноутбук;4.51
+397;Fujifilm X100V;104990;Fujifilm;Камера;4.48
+398;HP Pavilion Gaming 16;64990;HP;игровой ноутбук;4.18
+399;Huawei P9;19990;Huawei;смартфон;4.76
+400;Leica M10-R;249990;Leica;камеру;4.22
+401;Acer Predator Triton 500;129990;Acer;ноутбук;4.78
+402;iPad Air 4;54990;Apple;Планшет;4.92
+403;Sennheiser Momentum 3 Wireless;24990;Sennheiser;Наушники;4.98
+404;Google Chromecast with Google TV;4990;Google;Медиаплеер;4.14
+405;OnePlus 3T;19990;OnePlus;смартфон;4.44
+406;Acer ConceptD 3;89990;Acer;ноутбук;4.54
+407;Braun MQ 5045 Aperitive;7990;Braun;блендер;4.46
+408;Sony PlayStation 3;9990;Sony;игровая консоль;4.93
+409;Lenovo IdeaPad Duet;29990;Lenovo;планшет;4.98
+410;Nvidia Shield TV Pro;19990;Nvidia;Медиаплеер;4.53
+411;Dell XPS 13 2-in-1;89990;Dell;ноутбук;4.52
+412;Epson EB-U05;49990;Epson;проектор;4.72
+413;Huawei P30 Pro;44990;Huawei;смартфон;4.7
+414;Sony VPL-PHZ10;119990;Sony;проектор;4.27
+415;Samsung Galaxy Note 8;39990;Samsung;смартфон;4.55
+416;Google Nest Thermostat;12990;Google;термостат;4.72
+417;Asus ZenPad 3S;19990;Asus;планшет;4.31
+418;Xiaomi Mi Smart Standing Fan 1C;4990;Xiaomi;вентилятор;4.67
+419;HP Spectre x2;89990;HP;ноутбук;4.46
+420;OnePlus 7;34990;OnePlus;смартфон;4.22
+421;Oral-B Pro 3000;5990;Oral-B;электрическая зубная щетка;4.47
+422;Sony Xperia XA2;19990;Sony;смартфон;4.05
+423;Asus ROG Strix GL502;89990;Asus;игровой ноутбук;4.14
+424;Huawei MediaPad T5;14990;Huawei;планшет;4.6
+425;HP Elite Dragonfly;119990;HP;ноутбук;4.86
+426;Samsung Galaxy Tab A;15990;Samsung;планшет;4.75
+427;Asus ROG Zephyrus G14;134990;Asus;Ноутбук;4.67
+428;Philips Hue Lighting Kit;17990;Philips;Умное освещение;4.0
+429;Acer Spin 1;19990;Acer;ноутбук;4.16
+430;Zanussi ZHU/A-60;6990;Zanussi;увлажнитель воздуха;4.63
+431;Gaggia Anima Prestige;59990;Gaggia;кофемашину;4.4
+432;Garmin Forerunner 45;19990;Garmin;умные часы;4.15
+433;Huawei P10;19990;Huawei;смартфон;4.57
+434;Huawei Mate X;199990;Huawei;смартфон;4.17
+435;Sennheiser HD 450BT;19990;Sennheiser;наушники;4.49
+436;Alienware m15 R3;169990;Alienware;Ноутбук;4.3
+437;Tefal KO299830;4990;Tefal;электрочайник;4.09
+438;Philips Daily Collection;3990;Philips;тостер;4.18
+439;Eero Pro Mesh WiFi System;19990;Eero;Система Wi-Fi;4.51
+440;Samsung Galaxy S9;34990;Samsung;смартфон;4.95
+441;Lenovo ThinkCentre M720;49990;Lenovo;настольный компьютер;4.39
+442;Lenovo Tab M10;19990;Lenovo;планшет;4.78
+443;Google Pixelbook;84990;Google;ноутбук;4.38
+444;"TCL 6-Series 65""";59990;TCL;Телевизор;4.72
+445;Samsung Galaxy Buds Live;13990;Samsung;беспроводные наушники;4.54
+446;Dell OptiPlex 7070;69990;Dell;настольный компьютер;4.73
+447;Amazfit GTS;9990;Amazfit;умные часы;4.42
+448;Apple iPhone 6;9990;Apple;смартфон;4.34
+449;ASUS VivoBook 15;59990;ASUS;ноутбук;4.14
+450;Xiaomi Redmi AirDots;4990;Xiaomi;наушники;4.2
+451;Electrolux EJ2801AOW2;34990;Electrolux;холодильник;4.61
+452;Lenovo Yoga Smart Tab;34990;Lenovo;планшет;4.58
+453;Bosch TWK3A011;2490;Bosch;чайник;4.78
+454;Logitech Harmony Elite;25990;Logitech;Универсальный пульт;4.46
+455;Fujifilm X-T30;59990;Fujifilm;камеру;4.96
+456;Microsoft Surface Studio 2;349990;Microsoft;настольный компьютер;4.8
+457;Jura E6;99990;Jura;кофемашину;4.03
+458;Panasonic TX-55FXR600;59990;Panasonic;телевизор;4.07
+459;Asus VivoBook 14;34990;Asus;ноутбук;4.08
+460;LG F2J5WN3W;39990;LG;стиральную машину;4.71
+461;Dell Latitude 5500;64990;Dell;ноутбук;4.65
+462;Samsung Galaxy A52;29990;Samsung;смартфоны;4.71
+463;BenQ TH671ST;54990;BenQ;проектор;4.01
+464;LG PF50KS;59990;LG;проектор;4.39
+465;JBL Bar 9.1 Sound Bar;69990;JBL;Саундбар;4.25
+466;Beats Studio 3;29990;Beats;наушники;4.89
+467;Microsoft Surface Pro 7;69990;Microsoft;планшет;5.0
+468;Acer Nitro 5 Spin;59990;Acer;ноутбук;4.06
+469;LG S09ET;34990;LG;кондиционер;4.84
+470;HP Pavilion 14;44990;HP;ноутбук;4.26
+471;HP EliteDesk 800;69990;HP;настольный компьютер;4.01
+472;Melitta Caffeo CI;49990;Melitta;кофемашину;4.4
+473;Lenovo Yoga 730;59990;Lenovo;ноутбук;4.2
+474;Lenovo Legion Pro;89990;Lenovo;игровой ноутбук;4.03
+475;Xiaomi Mi 11;49990;Xiaomi;Смартфон;4.05
+476;Huawei Y9 Prime;14990;Huawei;смартфон;4.18
+477;Xiaomi Redmi Note 9;24990;Xiaomi;смартфон;4.59
+478;Oppo A74;17990;Oppo;Смартфон;4.45
+479;Acer Swift 7;89990;Acer;ноутбук;4.97
+480;OnePlus 6T;34990;OnePlus;смартфон;4.96
+481;DeLonghi ECAM 23.460;69990;DeLonghi;кофемашину;4.81
+482;Sony Walkman NW-A55;9990;Sony;плеер;4.86
+483;Acer Extensa 15;29990;Acer;ноутбук;4.43
+484;OnePlus 8 Pro;54990;OnePlus;смартфон;4.41
+485;Realme GT;35990;Realme;Смартфон;4.89
+486;LG V50 ThinQ;49990;LG;смартфон;4.43
+487;JBL Flip 5;6990;JBL;портативную колонку;4.85
+488;Garmin Fenix 6X Pro;47990;Garmin;Умные часы;4.34
+489;Sony Xperia XZ;19990;Sony;смартфон;4.05
+490;OnePlus 2;19990;OnePlus;смартфон;4.21
+491;"LG OLED TV 55""";89990;LG;Телевизор;4.19
+492;Huawei Watch Fit;14990;Huawei;умные часы;4.32
+493;Apple iPad Pro 10.5;69990;Apple;планшет;4.6
+494;Microsoft Surface Duo;79990;Microsoft;смартфон;4.71
+495;Beats Powerbeats Pro;14990;Beats;наушники;4.96
+496;Huawei P40 Pro;69990;Huawei;Смартфон;4.11
+497;Sony WH-CH700N;11990;Sony;наушники;4.47
+498;Transcend StoreJet 25M3;4990;Transcend;Внешний HDD;4.25
+499;"Sony Bravia OLED 55""";129990;Sony;Телевизор;4.88
+500;Apple iPhone 11 Pro;89990;Apple;смартфон;4.52
+501;"Apple iMac 24"" M1";129990;Apple;Компьютер;4.6
+502;HP Envy 13;70990;HP;Ноутбук;4.72
+503;OnePlus 9;54990;OnePlus;смартфон;4.88
+504;Apple iPhone 11;49990;Apple;смартфон;4.79
+505;Apple HomePod Mini;7990;Apple;Умная колонка;4.46
+506;HP Elite x2;79990;HP;ноутбук;4.96
+507;Philips FC9332/09;24990;Philips;пылесос;4.31
+508;Microsoft Surface Laptop 3;77990;Microsoft;ноутбук;4.55
+509;HP EliteBook 1040;99990;HP;ноутбук;4.79
+510;PlayStation VR;25990;Sony;Виртуальная реальность;4.4
+511;Lenovo Tab P11;29990;Lenovo;планшет;4.51
+512;Asus ROG Strix Scar;129990;Asus;игровой ноутбук;4.19
+513;Toshiba Canvio Basics;4990;Toshiba;Внешний HDD;4.48
+514;Apple iPad Pro 11;99990;Apple;планшет;4.44
+515;Panasonic TX-40FX600;69990;Panasonic;телевизор;4.56
+516;Sony SRS-XB12;4990;Sony;Портативная колонка;4.43
+517;Asus ZenPad 3S 10;24990;Asus;планшет;4.54
+518;Asus ROG Strix;119990;Asus;игровой ноутбук;4.91
+519;DeLonghi EC 685;39990;DeLonghi;кофемашину;4.29
+520;LG Nexus 5;14990;LG;смартфон;4.88
+521;Jabra Elite 85h;22990;Jabra;Наушники;4.8
+522;Samsung RF56M9540SR;84990;Samsung;холодильник;4.52
+523;Ricoh Theta Z1;59990;Ricoh;Камера;4.93
+524;Ring Video Doorbell 3;15990;Ring;Видеодверной звонок;4.03
+525;Leica SL2;299990;Leica;камеру;4.25
+526;Sony Xperia 1;79990;Sony;смартфон;4.18
+527;Samsung Galaxy Note 20;77990;Samsung;смартфон;4.31
+528;Oppo Reno 5 Pro;45990;Oppo;Смартфон;4.29
+529;Melitta Caffeo Solo;39990;Melitta;кофемашину;4.15
+530;LG 55SM8600PLA;99990;LG;телевизор;4.1
+531;Philips PowerPro Compact;14990;Philips;пылесос;4.31
+532;OnePlus 7T;37990;OnePlus;смартфон;4.84
+533;Nikon Coolpix B500;29990;Nikon;камеру;4.97
+534;Google Nexus 6P;29990;Google;смартфон;4.46
+535;Huawei P30 Lite;19990;Huawei;смартфон;4.82
+536;Huawei MediaPad M5;24990;Huawei;планшет;4.26
+537;Tefal OptiGrill+;19990;Tefal;гриль;4.97
+538;Nokia 8.3 5G;34990;Nokia;Смартфон;4.05
+539;Philips 50PUS7304/12;49990;Philips;телевизор;4.17
+540;LG G4;9990;LG;смартфон;4.68
+541;Sony PlayStation 5;46990;Sony;Игровая консоль;4.22
+542;Google Pixel 3a;29990;Google;смартфон;4.33
+543;Daikin FTXB35C/RXB35C;49990;Daikin;кондиционер;4.83
+544;Samsung Galaxy Z Fold 2;179990;Samsung;смартфон;4.69
+545;Samsung Gear 360;15990;Samsung;Камера;4.19
+546;Microsoft Surface Pro 7+;74990;Microsoft;планшет;4.4
+547;LG Wing;69990;LG;смартфон;4.4
+548;Samsung Galaxy Fold;149990;Samsung;смартфон;4.07
+549;LG V30;29990;LG;смартфон;4.27
+550;Epson EH-TW650;69990;Epson;проектор;4.44
+551;Harman Kardon Onyx Studio 6;14990;Harman Kardon;Портативная колонка;4.42
+552;Huawei Mate 40 Pro;89990;Huawei;Смартфон;4.77
+553;Huawei MatePad Pro;39990;Huawei;планшет;4.81
+554;Huawei MateBook D;49990;Huawei;ноутбук;4.77
+555;LG G7 ThinQ;29990;LG;смартфон;4.24
+556;Huawei Nova 3;27990;Huawei;смартфон;4.01
+557;Apple iPhone 12 Mini;59990;Apple;Смартфон;4.41
+558;Apple Mac Mini M1;64990;Apple;Компьютер;4.27
+559;LG GA-B509SLKM;59990;LG;холодильник;4.84
+560;Google Pixel 4a;39990;Google;Смартфон;4.78
+561;Huawei P30;39990;Huawei;смартфон;4.15
+562;Bosch Serie 4;44990;Bosch;посудомоечную машину;4.58
+563;Huawei Honor 20;27990;Huawei;смартфон;4.05
+564;Hisense 43A7500F;39990;Hisense;телевизор;4.18
+565;Ricoh GR III;79990;Ricoh;Камера;5.0
+566;Dell Inspiron 5593;69990;Dell;ноутбук;4.58
+567;iPhone 13 Pro;89990;Apple;Смартфон;4.65
+568;Sony Xperia XZ2;39990;Sony;смартфон;4.85
+569;Huawei MatePad T10s;29990;Huawei;планшет;4.51
+570;Electrolux EOB3434BOX;39990;Electrolux;духовой шкаф;4.37
+571;Lenovo Legion 5 Pro;119990;Lenovo;Ноутбук;4.57
+572;Samsung Crystal UHD;29990;Samsung;телевизоры;4.54
+573;JBL T110;1990;JBL;наушники;4.0
+574;HP LaserJet Pro M15w;19990;HP;принтер;4.21
+575;Canon EOS 90D;69990;Canon;фотоаппарат;4.71
+576;HP Pavilion Gaming;59990;HP;Ноутбук;4.12
+577;Google Nest Audio;8990;Google;Умная колонка;4.44
+578;LG Q6;9990;LG;смартфон;4.47
+579;LG HU80KA 4K UHD;179990;LG;Проектор;4.6
+580;Hisense 55U7QF;54990;Hisense;телевизор;4.37
+581;LG Tone Free FN6;12990;LG;Наушники;4.4
+582;Samsung Portable SSD T5;8990;Samsung;Внешний SSD;4.34
+583;Sony PlayStation 4 Pro;29990;Sony;игровая консоль;4.08
+584;Lenovo ThinkStation P320;89990;Lenovo;рабочая станция;4.95
+585;Asus Zenfone 6;29990;Asus;смартфон;4.45
+586;Toshiba 32L3863DG;34990;Toshiba;телевизор;4.36
+587;HP Omen 15;79990;HP;игровой ноутбук;4.0
+588;Miele Complete C3 Cat&Dog PowerLine;79990;Miele;пылесос;4.38
+589;Yamaha YAS-209 Sound Bar;31990;Yamaha;Саундбар;4.56
+590;HP ZBook Firefly;104990;HP;ноутбук;4.73
+591;Optoma UHD50X;69990;Optoma;Проектор;4.62
+592;Lenovo Yoga C740;69990;Lenovo;ноутбук;4.18
+593;Apple iPhone 12;59990;Apple;смартфон;4.81
+594;Marshall Mid A.N.C.;14990;Marshall;наушники;4.95
+595;Realme 7 Pro;24990;Realme;Смартфон;4.66
+596;Nikon D3500;39990;Nikon;камеру;4.41
+597;Sony Xperia L4;14990;Sony;смартфон;4.25
+598;LG K40;8990;LG;смартфон;4.93
+599;Samsung Galaxy Book;59990;Samsung;ноутбук;4.78
+600;Electrolux EERC72EB;14990;Electrolux;пылесос;4.54
+601;Dell OptiPlex 3080;39990;Dell;настольный компьютер;4.13
+602;JBL TUNE 500BT;3990;JBL;наушники;4.51
+603;Apple TV 4K;17990;Apple;Медиаплеер;4.7
+604;Insta360 One R;29990;Insta360;Камера;4.91
+605;Apple iMac Pro;399990;Apple;настольный компьютер;4.58
+606;"Samsung QLED TV 55""";69990;Samsung;Телевизор;4.15
+607;LG G8 ThinQ;29990;LG;смартфон;4.31
+608;Dell Alienware m15;89990;Dell;игровой ноутбук;4.45
+609;Bosch TIS 30159RW;29990;Bosch;кофемашину;4.15
+610;Acer X1123H;29990;Acer;проектор;4.73
+611;Xiaomi Mi Smart Home Kit;49990;Xiaomi;система умный дом;4.55
+612;Asus ROG Strix Hero III;149990;Asus;игровой ноутбук;4.27
+613;Sonos One;21990;Sonos;Умная колонка;4.72
+614;Google Chromecast;3990;Google;медиаплеер;4.33
+615;Samsung Galaxy M31;19990;Samsung;смартфон;4.92
+616;HP 24es;19990;HP;монитор;4.22
+617;Samsung Galaxy A51;22990;Samsung;смартфон;4.27
+618;AOC 22B1HS;11990;AOC;монитор;4.31
+619;Acer TravelMate P2;49990;Acer;ноутбук;4.64
+620;Samsung Galaxy Watch 3;39990;Samsung;умные часы;4.82
+621;Google Nest Mini;3990;Google;смарт-колонка;4.59
+622;Janome 2139N;24990;Janome;швейную машину;4.56
+623;Sonos Move;29990;Sonos;Умная колонка;4.3
+624;Google Nest Cam Indoor;9990;Google;камера безопасности;4.87
+625;Sony HT-X8500 Soundbar;24990;Sony;Саундбар;4.16
+626;Saeco Lirika One;44990;Saeco;кофемашину;4.05
+627;Apple iPad Mini (2021);45990;Apple;Планшет;4.97
+628;Acer Enduro N3;79990;Acer;ноутбук;4.38
+629;Asus Chromebook Flip;29990;Asus;ноутбук;4.96
+630;Dell XPS 13;89990;Dell;ноутбук;4.5
+631;Asus ZenBook Pro;89990;Asus;ноутбук;4.97
+632;Samsung S24D300H;14990;Samsung;монитор;4.43
+633;LG V60 ThinQ;59990;LG;Смартфон;4.95
+634;Canon LV-X320;39990;Canon;проектор;4.02
+635;Samsung RB33J3200SA;69990;Samsung;холодильник;4.19
+636;Dell Alienware Aurora R11;180990;Dell;Компьютер;4.59
+637;Amazon Fire TV Stick 4K;5990;Amazon;Медиаплеер;4.61
+638;Asus ZenBook 13;79990;Asus;ноутбук;4.75
+639;Samsung Galaxy Tab A 10.1;19990;Samsung;планшет;4.74
+640;Electrolux EACS/I-09HSL/N3;34990;Electrolux;кондиционер;4.13
+641;Oculus Quest 2;29990;Facebook;Виртуальная реальность;4.96
+642;Canon EOS 5D Mark IV;149990;Canon;камеру;4.01
+643;Microsoft Surface Studio;299990;Microsoft;настольный компьютер;4.09
+644;Elica Stripe;29990;Elica;вытяжка;4.8
+645;Google Nest WiFi;13990;Google;Система Wi-Fi;4.72
+646;Asus ROG Strix G15;119990;Asus;ноутбук;4.64
+647;Polaris PKSH 0508H;7990;Polaris;электрический обогреватель;4.24
+648;Samsung VC07K51G0HG;39990;Samsung;пылесос;4.72
+649;Dell Inspiron 15;59990;Dell;ноутбук;4.62
+650;Apple iPad Air;59990;Apple;планшет;4.65
+651;Google Pixel 4 XL;59990;Google;смартфон;4.91
+652;Razer Blade 15;160990;Razer;Ноутбук;4.31
+653;Sony Alpha A6000;49990;Sony;камеру;4.61
+654;Western Digital Elements Portable;7990;Western;внешний жесткий диск;4.4
+655;Nanoleaf Light Panels;19990;Nanoleaf;Световые панели;4.24
+656;Sony Xperia XZ1;24990;Sony;смартфон;5.0
+657;MSI GE75 Raider;149990;MSI;ноутбук;4.89
+658;Samsung Galaxy S10;59990;Samsung;смартфон;4.02
+659;Huawei MateBook X Pro;89990;Huawei;Ноутбук;4.74
+660;Karcher VC 3;29990;Karcher;пылесос;4.1
+661;LG G8X ThinQ;49990;LG;Смартфон;4.95
+662;Samsung Galaxy S21;79990;Samsung;Смартфон;4.53
+663;Amazon Fire HD 10;11990;Amazon;Планшет;4.93
+664;Apple MacBook Air;99990;Apple;ноутбук;4.58
+665;Canon LV-WX300UST;69990;Canon;проектор;4.22
+666;Asus ZenBook Flip;84990;Asus;ноутбук;4.55
+667;Samsung Galaxy Tab S7;49990;Samsung;Планшет;4.98
+668;HP Pavilion 17;49990;HP;ноутбук;4.62
+669;Canon EOS R5;259990;Canon;Камера;4.58
+670;HP Omen 17;99990;HP;игровой ноутбук;4.86
+671;Dell Precision 3540;79990;Dell;ноутбук;4.16
+672;Karcher SC 3 EasyFix;11990;Karcher;пароочиститель;4.7
+673;Philips EP1220/00;24990;Philips;кофемашину;4.25
+674;HP Envy x360;74990;HP;ноутбук;4.85
+675;Sennheiser Momentum True Wireless 2;14990;Sennheiser;наушники;4.95
+676;Asus VivoBook S15;59990;Asus;ноутбук;4.55
+677;Google Nest Hub;14990;Google;умный дом;4.99
+678;Acer TravelMate B1;29990;Acer;ноутбук;4.1
+679;Optoma UHD40;84990;Optoma;проектор;4.36
+680;Bose SoundLink Mini II;13990;Bose;Портативная колонка;4.04
+681;BenQ GL2250HM;9990;BenQ;монитор;4.58
+682;Huawei Nova 5T;27990;Huawei;смартфон;4.49
+683;Gaggia Anima;79990;Gaggia;кофемашину;4.93
+684;Redmond RMC-M90;14990;Redmond;мультиварку;4.14
+685;Dell Latitude 7400;89990;Dell;ноутбук;4.71
+686;Canon EOS 250D;69990;Canon;камеру;4.69
+687;Beko RCSK 310M20W;24990;Beko;холодильник;4.64
+688;WD My Passport Ultra;6990;Western Digital;Внешний HDD;4.26
+689;Lenovo Tab P11 Pro;44990;Lenovo;Планшет;4.73
+690;LaCie Rugged Mini;8990;LaCie;Внешний HDD;4.33
+691;Sony Xperia 10 II;27990;Sony;смартфон;4.68
+692;Google Home Max;29990;Google;смарт-колонка;4.42
+693;Nikon Coolpix P1000;54990;Nikon;Камера;4.61
+694;Bose SoundSport Free;19990;Bose;наушники;4.26
+695;BenQ GW2283;16990;BenQ;монитор;4.91
+696;Anker Soundcore Life Q20;6990;Anker;Наушники;4.19
+697;Bose QuietComfort 35 II;24990;Bose;наушники;4.99
+698;Nest Thermostat;12990;Nest;Термостат;4.99
+699;Sony Xperia X;19990;Sony;смартфон;4.07
+700;HP 27fw;29990;HP;монитор;4.52
+701;Google Pixel 4a 5G;44990;Google;Смартфон;4.95
+702;Samsung UE32N5000AU;29990;Samsung;телевизор;4.25
+703;HP Envy 17;79990;HP;ноутбук;4.65
