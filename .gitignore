@@ -1,0 +1,7 @@
+venv/
+.idea/
+logs/
+__pycache__/
+data/
+raw_data/
+models/
